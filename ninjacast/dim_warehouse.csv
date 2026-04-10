@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region_id,efficiency_level,delay_risk
+W1,BLR Hub,R1,High,Low
+W2,HYD Hub,R2,Medium,Medium
+W3,CHE Hub,R3,Low,High
+W4,MUM Hub,R4,High,Low
+W5,DEL Hub,R5,Medium,Medium

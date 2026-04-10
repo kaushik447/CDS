@@ -1,0 +1,9 @@
+product_id,product_name,category,price_sensitivity,demand_pattern,shelf_life_days,profit_margin_type
+P1,Tomato,Vegetable,High,Seasonal,7,Low
+P2,Onion,Vegetable,Medium,Stable,30,Medium
+P3,Potato,Vegetable,Low,Stable,60,Medium
+P4,Banana,Fruit,High,Seasonal,5,Low
+P5,Apple,Fruit,Medium,Seasonal,20,High
+P6,Rice,Grain,Low,Stable,180,High
+P7,Cabbage,Vegetable,Medium,Seasonal,10,Low
+P8,Mango,Fruit,High,Highly Seasonal,4,High

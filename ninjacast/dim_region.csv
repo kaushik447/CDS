@@ -1,0 +1,6 @@
+region_id,region_name,demand_level,delay_risk,cost_level,infrastructure_quality,supply_volatility
+R1,Bangalore,High,Low,Medium,Good,High
+R2,Hyderabad,Medium,Medium,Medium,Moderate,Medium
+R3,Chennai,Medium,High,Low,Poor,High
+R4,Mumbai,High,Low,High,Good,Low
+R5,Delhi,Very High,Medium,High,Moderate,Medium
