@@ -1,0 +1,21 @@
+Crop_ID,Crop_Name,Farm_ID,Farm_Name,season,Forecast_Date,Predicted_Cost,Predicted_Profit
+C01,Rice,F01,GreenGrow Farm,Kharif,2026-06-01,47000,216650.0
+C02,Wheat,F02,AgriLife Farm,Rabi,2026-10-01,47000,181150.0
+C03,Maize,F03,CropMax Farm,Kharif,2026-06-01,47000,183910.0
+C04,Mustard,F04,Sunrise Agro,Rabi,2026-10-01,47000,160950.0
+C05,Potato,F05,FieldFresh Farm,Rabi,2026-10-01,47000,204800.0
+C01,Rice,F01,GreenGrow Farm,Kharif,2026-06-01,52000,212000.0
+C02,Wheat,F02,AgriLife Farm,Rabi,2026-10-01,52000,176060.0
+C03,Maize,F03,CropMax Farm,Kharif,2026-06-01,52000,178040.0
+C04,Mustard,F04,Sunrise Agro,Rabi,2026-10-01,52000,156750.0
+C05,Potato,F05,FieldFresh Farm,Rabi,2026-10-01,52000,200000.0
+C01,Rice,F01,GreenGrow Farm,Kharif,2026-06-01,57000,207050.0
+C02,Wheat,F02,AgriLife Farm,Rabi,2026-10-01,57000,171030.0
+C03,Maize,F03,CropMax Farm,Kharif,2026-06-01,57000,173800.0
+C04,Mustard,F04,Sunrise Agro,Rabi,2026-10-01,57000,151050.0
+C05,Potato,F05,FieldFresh Farm,Rabi,2026-10-01,57000,195050.0
+C01,Rice,F01,GreenGrow Farm,Kharif,2026-06-01,62000,202000.0
+C02,Wheat,F02,AgriLife Farm,Rabi,2026-10-01,62000,166220.0
+C03,Maize,F03,CropMax Farm,Kharif,2026-06-01,62000,168720.0
+C04,Mustard,F04,Sunrise Agro,Rabi,2026-10-01,62000,146000.0
+C05,Potato,F05,FieldFresh Farm,Rabi,2026-10-01,62000,190000.0
