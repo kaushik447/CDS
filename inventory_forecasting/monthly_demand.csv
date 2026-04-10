@@ -1,0 +1,3317 @@
+year_month,invoice_line_text,demand
+2017-01-01,air filter,12
+2017-01-01,air filter checkup,14
+2017-01-01,battery belt,1
+2017-01-01,bore kit,3
+2017-01-01,brake light switch,1
+2017-01-01,brake rod spring,1
+2017-01-01,brake shoe,7
+2017-01-01,caliper assembly,1
+2017-01-01,carburetor cleaning,1
+2017-01-01,carburetor diaphragm rubber,1
+2017-01-01,cdi unit,2
+2017-01-01,chain adjuster plate,2
+2017-01-01,chain lubrication,39
+2017-01-01,chain overhaul,4
+2017-01-01,chain set,3
+2017-01-01,chain sprocket,7
+2017-01-01,clutch assembly,3
+2017-01-01,clutch bell rest,1
+2017-01-01,clutch cable,4
+2017-01-01,clutch cam,1
+2017-01-01,clutch lever,1
+2017-01-01,coil check,1
+2017-01-01,cone set,1
+2017-01-01,consumables,14
+2017-01-01,crank reset,3
+2017-01-01,crank shaft,3
+2017-01-01,crash guard,1
+2017-01-01,disc lever,1
+2017-01-01,disc oil,19
+2017-01-01,disc overhual,2
+2017-01-01,disc pad,7
+2017-01-01,disc pump kit,1
+2017-01-01,disk pad,1
+2017-01-01,doom,1
+2017-01-01,drum bolt,1
+2017-01-01,drum bolt washer,1
+2017-01-01,engine bearing,3
+2017-01-01,engine case welding,1
+2017-01-01,engine oil,45
+2017-01-01,engine screw kit,1
+2017-01-01,foot rest,3
+2017-01-01,fork bend,2
+2017-01-01,fork cone set,1
+2017-01-01,fork oil,1
+2017-01-01,fork oil and oil seal,1
+2017-01-01,fork oil seal,1
+2017-01-01,gear lever rubber,2
+2017-01-01,general service,25
+2017-01-01,half axle,1
+2017-01-01,handlebar,1
+2017-01-01,head light bulb,1
+2017-01-01,head light doom,2
+2017-01-01,head rest,3
+2017-01-01,indicator,2
+2017-01-01,indicator bulb,1
+2017-01-01,kicker stopper,1
+2017-01-01,labour,2
+2017-01-01,ladies handle,1
+2017-01-01,loading gear,3
+2017-01-01,lock arm,2
+2017-01-01,m oil,19
+2017-01-01,master assembly,1
+2017-01-01,mirror,2
+2017-01-01,mirror adjustment,1
+2017-01-01,oil filter,8
+2017-01-01,oil seal kit,1
+2017-01-01,one way clutch bush kit,1
+2017-01-01,packing kit,3
+2017-01-01,pad,1
+2017-01-01,pickup coil,1
+2017-01-01,polish,12
+2017-01-01,service,2
+2017-01-01,side sheld rubber,1
+2017-01-01,side shield,2
+2017-01-01,side stand spring,1
+2017-01-01,spark plug,6
+2017-01-01,starter coil,1
+2017-01-01,stay,1
+2017-01-01,switch,1
+2017-01-01,tail lamp bulb,1
+2017-01-01,tail lamp cover,1
+2017-01-01,tank assembly,1
+2017-01-01,tank bag,1
+2017-01-01,tank cleaning,1
+2017-01-01,tank cover,1
+2017-01-01,tensioner,2
+2017-01-01,threading,1
+2017-01-01,timming chain,3
+2017-01-01,timming chain pad,3
+2017-01-01,valve grainding,3
+2017-01-01,valve guide,3
+2017-01-01,valve kit,3
+2017-01-01,visior,2
+2017-01-01,washing,1
+2017-01-01,wheel rubber,5
+2017-01-01,wind shield,1
+2017-01-01,wiring kit,1
+2017-01-01,wiring labour,1
+2017-02-01,air filter,19
+2017-02-01,air filter checkup,2
+2017-02-01,battery charge,1
+2017-02-01,brake cable,1
+2017-02-01,brake shoe,9
+2017-02-01,buzzer,1
+2017-02-01,chain adjuster plate,1
+2017-02-01,chain link lock,1
+2017-02-01,chain lubrication,41
+2017-02-01,chain sprocket,1
+2017-02-01,clutch assembly,1
+2017-02-01,clutch cable,1
+2017-02-01,clutch cover gasket,2
+2017-02-01,clutch switch,1
+2017-02-01,coil,1
+2017-02-01,consumables,19
+2017-02-01,coolant oil,2
+2017-02-01,crash guard,2
+2017-02-01,disc lever,2
+2017-02-01,disc oil,5
+2017-02-01,disc pad,4
+2017-02-01,engine oil,44
+2017-02-01,gb cover screw,1
+2017-02-01,gear lever,1
+2017-02-01,gear shaft,1
+2017-02-01,general service,19
+2017-02-01,grip handle,1
+2017-02-01,handle weight,1
+2017-02-01,handlebar,1
+2017-02-01,head light bulb,1
+2017-02-01,head light doom,1
+2017-02-01,indicator,2
+2017-02-01,indicator bulb,1
+2017-02-01,labour,1
+2017-02-01,m oil,23
+2017-02-01,oil filter,4
+2017-02-01,one way clutch bush kit,1
+2017-02-01,parking bulb,1
+2017-02-01,petrol lock,1
+2017-02-01,polish,14
+2017-02-01,rear caliper assembly,1
+2017-02-01,seat cover,1
+2017-02-01,shield cover,1
+2017-02-01,spark plug,3
+2017-02-01,tank bag,1
+2017-02-01,tank cleaning,1
+2017-02-01,tank cover,2
+2017-02-01,tyre,1
+2017-02-01,tyre guard,1
+2017-02-01,visior,1
+2017-02-01,way switch,1
+2017-02-01,wheel rubber,4
+2017-03-01,air filter,9
+2017-03-01,air filter checkup,10
+2017-03-01,axle,1
+2017-03-01,battery,3
+2017-03-01,body,1
+2017-03-01,bolt removal,1
+2017-03-01,bore kit,1
+2017-03-01,brake pedal,1
+2017-03-01,brake shoe,6
+2017-03-01,buzzer,1
+2017-03-01,carburetor spring,1
+2017-03-01,center stand,1
+2017-03-01,chain lubrication,26
+2017-03-01,chain overhaul,2
+2017-03-01,chain sprocket,5
+2017-03-01,clutch assembly,2
+2017-03-01,clutch bell rest,1
+2017-03-01,clutch cable,3
+2017-03-01,clutch cover gasket,1
+2017-03-01,clutch overhual,1
+2017-03-01,consumables,12
+2017-03-01,crank shaft,1
+2017-03-01,disc oil,8
+2017-03-01,disc overhual,1
+2017-03-01,disc pad,4
+2017-03-01,engine oil,33
+2017-03-01,foot rest,1
+2017-03-01,gear shaft,1
+2017-03-01,general service,18
+2017-03-01,handlebar,1
+2017-03-01,head rest,1
+2017-03-01,head rubber,1
+2017-03-01,holder step,1
+2017-03-01,indicator,4
+2017-03-01,indicator bulb,1
+2017-03-01,labour,5
+2017-03-01,loading gear,1
+2017-03-01,lock set,1
+2017-03-01,low beam bulb,1
+2017-03-01,m oil,15
+2017-03-01,master assembly,1
+2017-03-01,mirror,3
+2017-03-01,oil filter,6
+2017-03-01,one way clutch,1
+2017-03-01,packing kit,1
+2017-03-01,polish,11
+2017-03-01,pump kit,1
+2017-03-01,ractifier,1
+2017-03-01,relay,1
+2017-03-01,side sheld rubber,1
+2017-03-01,side shield lock,1
+2017-03-01,side stand,1
+2017-03-01,spark plug,3
+2017-03-01,switch,1
+2017-03-01,tail lamp bulb,2
+2017-03-01,tank bag,1
+2017-03-01,tank cleaning,2
+2017-03-01,tank cover,1
+2017-03-01,tensioner,1
+2017-03-01,timming chain,1
+2017-03-01,timming chain pad,1
+2017-03-01,tyre guard,1
+2017-03-01,valve grainding,1
+2017-03-01,valve guide,1
+2017-03-01,valve kit,1
+2017-03-01,wheel rubber,2
+2017-03-01,wiring,1
+2017-03-01,wiring kit,1
+2017-04-01,accelator cable,1
+2017-04-01,air filter,14
+2017-04-01,air filter checkup,9
+2017-04-01,battery,2
+2017-04-01,bolt wielding,1
+2017-04-01,bore kit,1
+2017-04-01,brake adjustment,3
+2017-04-01,brake shoe,8
+2017-04-01,buzzer,1
+2017-04-01,caliper assembly,1
+2017-04-01,center stand spring,1
+2017-04-01,chain cover rubber,1
+2017-04-01,chain lubrication,45
+2017-04-01,chain overhaul,1
+2017-04-01,chain set,1
+2017-04-01,chain sprocket,3
+2017-04-01,clutch assembly,3
+2017-04-01,clutch cable,4
+2017-04-01,clutch cover gasket,3
+2017-04-01,clutch overhual,3
+2017-04-01,clutch switch,1
+2017-04-01,consumables,18
+2017-04-01,crank reset,1
+2017-04-01,crank shaft,1
+2017-04-01,crash guard,2
+2017-04-01,disc lever,1
+2017-04-01,disc oil,7
+2017-04-01,disc overhual,1
+2017-04-01,disc pad,6
+2017-04-01,disc plate,1
+2017-04-01,disc pump kit,1
+2017-04-01,doom,1
+2017-04-01,engine bearing,1
+2017-04-01,engine guard,1
+2017-04-01,engine oil,48
+2017-04-01,flasher,1
+2017-04-01,foot rest,3
+2017-04-01,fuel guage,1
+2017-04-01,gear and gb shaft oil seal,1
+2017-04-01,gear shaft,1
+2017-04-01,general service,27
+2017-04-01,gripper,2
+2017-04-01,half accelerator,1
+2017-04-01,handle weight,1
+2017-04-01,handlebar,1
+2017-04-01,head light bulb,1
+2017-04-01,head rest,1
+2017-04-01,indicator,3
+2017-04-01,indicator bulb,1
+2017-04-01,labour,1
+2017-04-01,ladies handle,1
+2017-04-01,loading gear,1
+2017-04-01,lock arm,1
+2017-04-01,m oil,20
+2017-04-01,number plate,1
+2017-04-01,oil filter,8
+2017-04-01,one way clutch bush kit,1
+2017-04-01,packing kit,1
+2017-04-01,parking bulb,2
+2017-04-01,petrol pipe,1
+2017-04-01,polish,15
+2017-04-01,ractifier,3
+2017-04-01,rear break light switch,1
+2017-04-01,seat cowl,1
+2017-04-01,self realy,1
+2017-04-01,side lock,1
+2017-04-01,side stand,1
+2017-04-01,spark plug,4
+2017-04-01,speedometer bulb,1
+2017-04-01,speedometer cable,1
+2017-04-01,switch,1
+2017-04-01,tail lamp assembly,1
+2017-04-01,tail lamp bulb,1
+2017-04-01,tank cover,2
+2017-04-01,tensioner,1
+2017-04-01,timming chain,1
+2017-04-01,timming chain pad,1
+2017-04-01,valve grainding,1
+2017-04-01,valve guide,1
+2017-04-01,valve kit,1
+2017-04-01,visior,2
+2017-04-01,wheel bearing,1
+2017-04-01,wheel rubber,6
+2017-04-01,wiring kit,1
+2017-05-01,air filter,13
+2017-05-01,air filter checkup,5
+2017-05-01,battery charge,1
+2017-05-01,brake adjustment,2
+2017-05-01,brake shoe,9
+2017-05-01,cdi unit,1
+2017-05-01,chain lubrication,33
+2017-05-01,chain overhaul,1
+2017-05-01,chain sprocket,1
+2017-05-01,clutch adjustment,1
+2017-05-01,clutch assembly,1
+2017-05-01,clutch cable,2
+2017-05-01,clutch cover gasket,1
+2017-05-01,clutch lever,4
+2017-05-01,consumables,14
+2017-05-01,disc oil,7
+2017-05-01,disc overhual,1
+2017-05-01,disc pad,4
+2017-05-01,disc pump kit,2
+2017-05-01,drum bolt,1
+2017-05-01,engine oil,40
+2017-05-01,foot rest,4
+2017-05-01,fork bend,2
+2017-05-01,fork cone set,1
+2017-05-01,fork oil,1
+2017-05-01,fork oil and oil seal,1
+2017-05-01,fork oil seal,1
+2017-05-01,fork overhual,1
+2017-05-01,fuse,1
+2017-05-01,gear lever bolt,1
+2017-05-01,general service,19
+2017-05-01,handle weight,1
+2017-05-01,head light bulb,1
+2017-05-01,head light doom,1
+2017-05-01,head light stay,1
+2017-05-01,head rubber,2
+2017-05-01,indicator,2
+2017-05-01,lock set,1
+2017-05-01,m oil,14
+2017-05-01,oil filter,9
+2017-05-01,parking bulb,2
+2017-05-01,plug adapter,1
+2017-05-01,polish,12
+2017-05-01,seat cover,1
+2017-05-01,service,2
+2017-05-01,shield rubber,1
+2017-05-01,side shield,1
+2017-05-01,spark plug,3
+2017-05-01,starter coil,1
+2017-05-01,tail lamp bulb,1
+2017-05-01,tank cover,1
+2017-05-01,tensioner,1
+2017-05-01,timming chain,1
+2017-05-01,timming chain overhual,1
+2017-05-01,tyre,1
+2017-05-01,tyre replacement,1
+2017-05-01,visior,1
+2017-05-01,wheel rubber,5
+2017-06-01,accelator cable,3
+2017-06-01,air filter,8
+2017-06-01,air filter checkup,62
+2017-06-01,battery,6
+2017-06-01,battery charge,1
+2017-06-01,bore kit,2
+2017-06-01,brake adjustment,1
+2017-06-01,brake cable,1
+2017-06-01,brake light switch,1
+2017-06-01,brake shoe,40
+2017-06-01,buzzer,2
+2017-06-01,caliper assembly,3
+2017-06-01,cam shaft,1
+2017-06-01,carburetor diaphragm rubber,1
+2017-06-01,chain lubrication,149
+2017-06-01,chain overhaul,4
+2017-06-01,chain set,2
+2017-06-01,chain sprocket,6
+2017-06-01,choke cable,1
+2017-06-01,clutch assembly,6
+2017-06-01,clutch bell rest,2
+2017-06-01,clutch cable,15
+2017-06-01,clutch cover gasket,3
+2017-06-01,clutch lever,3
+2017-06-01,clutch overhual,3
+2017-06-01,clutch switch,2
+2017-06-01,coil check,1
+2017-06-01,consumables,74
+2017-06-01,coolant oil,3
+2017-06-01,crank reset,2
+2017-06-01,crank shaft,2
+2017-06-01,crash guard,3
+2017-06-01,crash guard bolt,1
+2017-06-01,disc lever,1
+2017-06-01,disc oil,59
+2017-06-01,disc overhual,2
+2017-06-01,disc pad,23
+2017-06-01,disc pump kit,3
+2017-06-01,disk pad,2
+2017-06-01,doom cap,1
+2017-06-01,drum bolt,2
+2017-06-01,engine bearing,2
+2017-06-01,engine guard,2
+2017-06-01,engine oil,155
+2017-06-01,engine oil tank cover seat ladies engine guard,1
+2017-06-01,flasher,1
+2017-06-01,foot rest rubber,2
+2017-06-01,fork,1
+2017-06-01,fork assembly,2
+2017-06-01,fork bend,1
+2017-06-01,fork cone set,5
+2017-06-01,fork oil,1
+2017-06-01,fork oil and oil seal,2
+2017-06-01,fork oil seal,2
+2017-06-01,fork overhual,2
+2017-06-01,gear lever,1
+2017-06-01,general service,87
+2017-06-01,gripper,1
+2017-06-01,handlebar,2
+2017-06-01,head bore gasket,1
+2017-06-01,head light bulb,2
+2017-06-01,head light doom,1
+2017-06-01,head o ring,1
+2017-06-01,head rest,2
+2017-06-01,head rubber,1
+2017-06-01,horn,1
+2017-06-01,indicator,6
+2017-06-01,indicator bulb,2
+2017-06-01,kicker stopper,1
+2017-06-01,labour,2
+2017-06-01,ladies foot rest,2
+2017-06-01,ladies handle,2
+2017-06-01,loading gear,1
+2017-06-01,lock arm,2
+2017-06-01,lock set,3
+2017-06-01,lock set bolt,2
+2017-06-01,low beam bulb,1
+2017-06-01,m oil,73
+2017-06-01,master assembly,2
+2017-06-01,mirror,5
+2017-06-01,mudguard bolt,1
+2017-06-01,oil camp o ring,1
+2017-06-01,oil filter,32
+2017-06-01,one way clutch,1
+2017-06-01,one way clutch bush kit,2
+2017-06-01,packing kit,2
+2017-06-01,parking bulb,3
+2017-06-01,petrol tap,1
+2017-06-01,polish,60
+2017-06-01,ractifier,1
+2017-06-01,right shield cap,1
+2017-06-01,saree guard,1
+2017-06-01,seat cover,4
+2017-06-01,self motor,1
+2017-06-01,shock absorber,1
+2017-06-01,side shield lock,1
+2017-06-01,side stand,1
+2017-06-01,silencer,2
+2017-06-01,silencer jali,1
+2017-06-01,silencer jall,1
+2017-06-01,spark plug,5
+2017-06-01,speedometer cable,2
+2017-06-01,spring,1
+2017-06-01,sprocket bearing,1
+2017-06-01,stopper welding,1
+2017-06-01,switch,1
+2017-06-01,tail lamp assembly,2
+2017-06-01,tail lamp bulb,6
+2017-06-01,tail lamp cover,1
+2017-06-01,tank bag,5
+2017-06-01,tank cleaning,1
+2017-06-01,tank cover,5
+2017-06-01,tensioner,2
+2017-06-01,timming chain,2
+2017-06-01,timming chain pad,2
+2017-06-01,valve grainding,2
+2017-06-01,valve guide,2
+2017-06-01,valve kit,2
+2017-06-01,visior,1
+2017-06-01,washing,3
+2017-06-01,wheel bearing,2
+2017-06-01,wheel rubber,30
+2017-06-01,wind shield,2
+2017-06-01,wind shield sticker,3
+2017-06-01,wiring checkup,3
+2017-06-01,yoke,3
+2017-07-01,accelator cable,4
+2017-07-01,air filter,45
+2017-07-01,air filter checkup,19
+2017-07-01,battery,2
+2017-07-01,battery charge,1
+2017-07-01,bottle coil,1
+2017-07-01,brake shoe,30
+2017-07-01,brake switch,1
+2017-07-01,bulb,3
+2017-07-01,buzzer,1
+2017-07-01,caliper assembly,1
+2017-07-01,carburetor diaphragm rubber,1
+2017-07-01,chain adjuster plate,1
+2017-07-01,chain lubrication,147
+2017-07-01,chain overhaul,8
+2017-07-01,chain sprocket,11
+2017-07-01,clutch assembly,6
+2017-07-01,clutch cable,19
+2017-07-01,clutch cam,2
+2017-07-01,clutch cam spring,1
+2017-07-01,clutch cover gasket,5
+2017-07-01,clutch lever,7
+2017-07-01,clutch overhual,2
+2017-07-01,consumables,67
+2017-07-01,coolant oil,3
+2017-07-01,crank reset,1
+2017-07-01,crank shaft,1
+2017-07-01,crash guard,5
+2017-07-01,disc lever,1
+2017-07-01,disc oil,38
+2017-07-01,disc overhual,1
+2017-07-01,disc pad,19
+2017-07-01,disc plate,2
+2017-07-01,disc pump kit,5
+2017-07-01,disk pad,2
+2017-07-01,doom,1
+2017-07-01,doom replacement,1
+2017-07-01,doom screw kit,1
+2017-07-01,drum bolt,1
+2017-07-01,engine bearing,1
+2017-07-01,engine guard,1
+2017-07-01,engine labour,1
+2017-07-01,engine oil,153
+2017-07-01,engine oil topup,1
+2017-07-01,engine work,1
+2017-07-01,foot rest,5
+2017-07-01,fork assembly,1
+2017-07-01,fork cone set,1
+2017-07-01,front mudguard,2
+2017-07-01,gear lever,2
+2017-07-01,gear shaft,2
+2017-07-01,general service,79
+2017-07-01,handle bar,1
+2017-07-01,handle weight,1
+2017-07-01,head light bulb,3
+2017-07-01,head light doom,2
+2017-07-01,head light holder,1
+2017-07-01,head light stay,1
+2017-07-01,head light switch,1
+2017-07-01,head o ring,1
+2017-07-01,head rest,1
+2017-07-01,head rubber,1
+2017-07-01,indicator,8
+2017-07-01,indicator bulb,1
+2017-07-01,jall screw,1
+2017-07-01,labour,1
+2017-07-01,loading gear,1
+2017-07-01,lock arm,1
+2017-07-01,m oil,69
+2017-07-01,magnet cover bolt,1
+2017-07-01,mirror,2
+2017-07-01,mudguard bolt,1
+2017-07-01,mudguard flop,1
+2017-07-01,number plate with sticker,1
+2017-07-01,oil filter,18
+2017-07-01,packing kit,1
+2017-07-01,parking bulb,3
+2017-07-01,petrol,1
+2017-07-01,petrol pipe,1
+2017-07-01,petrol tube,1
+2017-07-01,polish,59
+2017-07-01,puncher,1
+2017-07-01,ractifier,1
+2017-07-01,rebore,1
+2017-07-01,seat cover,6
+2017-07-01,self kit,1
+2017-07-01,self realy,1
+2017-07-01,service,1
+2017-07-01,shock absorber,1
+2017-07-01,side sheld rubber,1
+2017-07-01,side shield,1
+2017-07-01,side shield lock,1
+2017-07-01,silencer jall,1
+2017-07-01,spark plug,11
+2017-07-01,speedometer,1
+2017-07-01,speedometer cable,2
+2017-07-01,speedometer cap,1
+2017-07-01,speedometer cover,1
+2017-07-01,sprocket bearing,1
+2017-07-01,starter coil,1
+2017-07-01,step holder,1
+2017-07-01,sticker,1
+2017-07-01,switch,2
+2017-07-01,tail lamp bulb,1
+2017-07-01,tank assembly,1
+2017-07-01,tank cleaning,1
+2017-07-01,tank cover,5
+2017-07-01,teflon coating,2
+2017-07-01,tensioner,3
+2017-07-01,timming chain,3
+2017-07-01,timming chain overhual,1
+2017-07-01,timming chain pad,2
+2017-07-01,valve grainding,1
+2017-07-01,valve guide,1
+2017-07-01,valve kit,2
+2017-07-01,visior,2
+2017-07-01,visior sticker,1
+2017-07-01,visior with labour,1
+2017-07-01,wheel bearing,1
+2017-07-01,wheel bend,1
+2017-07-01,wheel rubber,24
+2017-07-01,wind shield,3
+2017-07-01,wiring kit,1
+2017-07-01,yoke,2
+2017-08-01,accelator cable,2
+2017-08-01,air filter,40
+2017-08-01,air filter checkup,10
+2017-08-01,air intake,1
+2017-08-01,battery,1
+2017-08-01,bore kit,6
+2017-08-01,brake cable,2
+2017-08-01,brake lever,1
+2017-08-01,brake light switch,2
+2017-08-01,brake pedal,1
+2017-08-01,brake pedal spring,1
+2017-08-01,brake shoe,24
+2017-08-01,bulb,1
+2017-08-01,buzzer,2
+2017-08-01,caliper assembly,1
+2017-08-01,cam shaft spring,1
+2017-08-01,carburetor diaphragm rubber,2
+2017-08-01,chain lubrication,108
+2017-08-01,chain overhaul,3
+2017-08-01,chain sprocket,15
+2017-08-01,clutch assembly,10
+2017-08-01,clutch bell rest,1
+2017-08-01,clutch cable,17
+2017-08-01,clutch cam,1
+2017-08-01,clutch cover gasket,8
+2017-08-01,clutch lever,7
+2017-08-01,clutch outlet pipe,1
+2017-08-01,clutch overhual,6
+2017-08-01,clutch switch,4
+2017-08-01,cone set,1
+2017-08-01,consumables,45
+2017-08-01,crank reset,4
+2017-08-01,crank shaft,4
+2017-08-01,dc kit,2
+2017-08-01,disc lever,1
+2017-08-01,disc oil,17
+2017-08-01,disc pad,17
+2017-08-01,disc plate,2
+2017-08-01,disc pump kit,2
+2017-08-01,disk pad,2
+2017-08-01,doom,1
+2017-08-01,engine bearing,4
+2017-08-01,engine guard,1
+2017-08-01,engine labour,1
+2017-08-01,engine oil,119
+2017-08-01,foot rest,3
+2017-08-01,fork bend,3
+2017-08-01,fork cone set,4
+2017-08-01,fork oil,4
+2017-08-01,fork oil and oil seal,1
+2017-08-01,fork oil seal,3
+2017-08-01,fork overhual,1
+2017-08-01,front mudguard,1
+2017-08-01,fuse box,1
+2017-08-01,gear and gb shaft oil seal,1
+2017-08-01,gear lever,1
+2017-08-01,gear shaft,4
+2017-08-01,general service,66
+2017-08-01,grip handle,1
+2017-08-01,half accelerator,1
+2017-08-01,handle lock,1
+2017-08-01,handle weight,1
+2017-08-01,handlebar,2
+2017-08-01,handlebar rubber,1
+2017-08-01,head light bulb,3
+2017-08-01,head o ring,1
+2017-08-01,head rest,4
+2017-08-01,head rubber,2
+2017-08-01,horn,2
+2017-08-01,indicator,5
+2017-08-01,indicator switch,1
+2017-08-01,kicker spring,1
+2017-08-01,kicker stopper,1
+2017-08-01,labour,1
+2017-08-01,loading gear,4
+2017-08-01,lock arm,4
+2017-08-01,lock set,1
+2017-08-01,m oil,47
+2017-08-01,mirror,4
+2017-08-01,number plate,1
+2017-08-01,oil filter,23
+2017-08-01,one way clutch bush kit,1
+2017-08-01,packing kit,4
+2017-08-01,parking bulb,4
+2017-08-01,petrol tap,3
+2017-08-01,pilot light,1
+2017-08-01,polish,33
+2017-08-01,rear caliper assembly,1
+2017-08-01,seat cover,4
+2017-08-01,self realy,1
+2017-08-01,service,2
+2017-08-01,shield rubber,1
+2017-08-01,shock absorber,1
+2017-08-01,side shield,1
+2017-08-01,side stand,1
+2017-08-01,silencer gasket,1
+2017-08-01,silencer jali,1
+2017-08-01,silencer jall screw,1
+2017-08-01,spark plug,11
+2017-08-01,speedometer,1
+2017-08-01,speedometer bulb,1
+2017-08-01,speedometer cable,2
+2017-08-01,speedometer cap,1
+2017-08-01,speedometer stay,1
+2017-08-01,stay,1
+2017-08-01,switch,1
+2017-08-01,tail lamp assembly,2
+2017-08-01,tail lamp bulb,2
+2017-08-01,tail lamp cover,1
+2017-08-01,tank cap,1
+2017-08-01,tank cover,7
+2017-08-01,tensioner,6
+2017-08-01,timming chain,5
+2017-08-01,timming chain pad,5
+2017-08-01,top plate,1
+2017-08-01,tube,1
+2017-08-01,tyre guard,1
+2017-08-01,valve grainding,6
+2017-08-01,valve guide,6
+2017-08-01,valve kit,6
+2017-08-01,visior,3
+2017-08-01,washing,3
+2017-08-01,welding,1
+2017-08-01,wheel rubber,14
+2017-08-01,wind shield,1
+2017-08-01,yoke,2
+2017-09-01,accelator cable,1
+2017-09-01,air filter,70
+2017-09-01,air filter checkup,6
+2017-09-01,battery,3
+2017-09-01,battery belt,1
+2017-09-01,battery charge,1
+2017-09-01,battery clip,1
+2017-09-01,bearing set,1
+2017-09-01,bore kit,1
+2017-09-01,brake cable,2
+2017-09-01,brake light switch,2
+2017-09-01,brake pedal rubber,1
+2017-09-01,brake rod,1
+2017-09-01,brake shoe,34
+2017-09-01,buzzer,1
+2017-09-01,caliper assembly,1
+2017-09-01,cdi unit,1
+2017-09-01,chain adjuster plate,1
+2017-09-01,chain cover rubber,1
+2017-09-01,chain lubrication,153
+2017-09-01,chain overhaul,1
+2017-09-01,chain sprocket,8
+2017-09-01,choke cable,1
+2017-09-01,clutch assembly,6
+2017-09-01,clutch cable,16
+2017-09-01,clutch cam,1
+2017-09-01,clutch cover gasket,7
+2017-09-01,clutch lever,4
+2017-09-01,clutch overhual,2
+2017-09-01,clutch switch,2
+2017-09-01,cone set,1
+2017-09-01,consumables,62
+2017-09-01,coolant oil,1
+2017-09-01,crank reset,1
+2017-09-01,crank shaft,1
+2017-09-01,crash guard,3
+2017-09-01,dc kit,1
+2017-09-01,disc lever,2
+2017-09-01,disc oil,22
+2017-09-01,disc pad,11
+2017-09-01,disc pump kit,3
+2017-09-01,disk pad,2
+2017-09-01,drum bolt,2
+2017-09-01,engine bearing,1
+2017-09-01,engine guard,3
+2017-09-01,engine labour,1
+2017-09-01,engine oil,156
+2017-09-01,foot rest,3
+2017-09-01,fork bend,2
+2017-09-01,fork oil and oil seal,2
+2017-09-01,gear shaft,2
+2017-09-01,general service,96
+2017-09-01,grill,2
+2017-09-01,grip handle,2
+2017-09-01,gripper,2
+2017-09-01,handle gripper,2
+2017-09-01,handlebar,1
+2017-09-01,head cap o ring,1
+2017-09-01,head light bulb,1
+2017-09-01,head light doom,1
+2017-09-01,head light switch,2
+2017-09-01,head o ring,1
+2017-09-01,head rest,2
+2017-09-01,head rubber,1
+2017-09-01,helmet lock,1
+2017-09-01,indicator,5
+2017-09-01,indicator bulb,1
+2017-09-01,jall screw,1
+2017-09-01,kicker stopper,2
+2017-09-01,labour,1
+2017-09-01,lever bolt,1
+2017-09-01,loading gear,1
+2017-09-01,lock arm,1
+2017-09-01,lock set,2
+2017-09-01,m oil,66
+2017-09-01,master cylender,1
+2017-09-01,mirror,6
+2017-09-01,oil filter,23
+2017-09-01,one way clutch bush kit,1
+2017-09-01,packing kit,1
+2017-09-01,parking bulb,2
+2017-09-01,petrol,1
+2017-09-01,petrol pipe,1
+2017-09-01,petrol tap,2
+2017-09-01,pilot light,1
+2017-09-01,plug adapter,2
+2017-09-01,plug adapter rubber,1
+2017-09-01,polish,44
+2017-09-01,pump kit,1
+2017-09-01,rebore,1
+2017-09-01,seat cover,2
+2017-09-01,seat cowl,1
+2017-09-01,shield rubber,1
+2017-09-01,side stand,2
+2017-09-01,side stand spring,1
+2017-09-01,silencer jall,1
+2017-09-01,spark plug,10
+2017-09-01,speedometer cable,1
+2017-09-01,speedometer cap,1
+2017-09-01,starter coil,2
+2017-09-01,stopper welding,1
+2017-09-01,switch,3
+2017-09-01,tail lamp assembly,1
+2017-09-01,tail lamp bulb,1
+2017-09-01,tail lamp glass,1
+2017-09-01,tank assembly,1
+2017-09-01,tank cap,1
+2017-09-01,tank cleaning,1
+2017-09-01,tank cover,6
+2017-09-01,tensioner,3
+2017-09-01,timming chain,3
+2017-09-01,timming chain pad,3
+2017-09-01,tyre,1
+2017-09-01,tyre replacement,1
+2017-09-01,valve grainding,2
+2017-09-01,valve guide,2
+2017-09-01,valve kit,2
+2017-09-01,visior,1
+2017-09-01,wheel rubber,20
+2017-09-01,wind shield sticker,2
+2017-09-01,wiring kit,1
+2017-10-01,air filter,51
+2017-10-01,air filter checkup,22
+2017-10-01,balancing gear,1
+2017-10-01,battery,2
+2017-10-01,battery belt,1
+2017-10-01,body cover,1
+2017-10-01,bore kit,2
+2017-10-01,bottle coil,1
+2017-10-01,brake cable,1
+2017-10-01,brake light switch,2
+2017-10-01,brake pedal spring,1
+2017-10-01,brake shoe,25
+2017-10-01,buzzer,2
+2017-10-01,caliper assembly,1
+2017-10-01,carburetor diaphragm rubber,2
+2017-10-01,chain lubrication,106
+2017-10-01,chain overhaul,8
+2017-10-01,chain set,4
+2017-10-01,chain sprocket,19
+2017-10-01,clutch assembly,8
+2017-10-01,clutch bell rest,1
+2017-10-01,clutch cable,9
+2017-10-01,clutch cover gasket,5
+2017-10-01,clutch lever,2
+2017-10-01,clutch overhual,4
+2017-10-01,coil check,1
+2017-10-01,coil start,1
+2017-10-01,cone set,1
+2017-10-01,consumables,47
+2017-10-01,coolant oil,2
+2017-10-01,crank reset,2
+2017-10-01,crank shaft,2
+2017-10-01,disc oil,28
+2017-10-01,disc overhual,3
+2017-10-01,disc pad,14
+2017-10-01,disc plate,1
+2017-10-01,disc pump kit,2
+2017-10-01,disk pad,2
+2017-10-01,doom,1
+2017-10-01,doom screw kit,2
+2017-10-01,drum,1
+2017-10-01,drum bolt,2
+2017-10-01,drum bolt washer,1
+2017-10-01,engine bearing,2
+2017-10-01,engine guard,3
+2017-10-01,engine labour,1
+2017-10-01,engine oil,123
+2017-10-01,engine rubber,1
+2017-10-01,foot rest,6
+2017-10-01,fork bend,1
+2017-10-01,fork cone set,1
+2017-10-01,fork oil,3
+2017-10-01,fork oil seal,3
+2017-10-01,fork overhual,2
+2017-10-01,front mudguard,1
+2017-10-01,fuse,1
+2017-10-01,gasket kit,1
+2017-10-01,gear and gb shaft oil seal,1
+2017-10-01,general service,78
+2017-10-01,grip handle,1
+2017-10-01,gripper,1
+2017-10-01,half accelerator,1
+2017-10-01,head light bulb,3
+2017-10-01,head light doom,3
+2017-10-01,head light stay,1
+2017-10-01,head light switch,1
+2017-10-01,head rest,2
+2017-10-01,head rubber,2
+2017-10-01,indicator,4
+2017-10-01,indicator buzzer,1
+2017-10-01,kicker,1
+2017-10-01,labour,7
+2017-10-01,ladies handle,1
+2017-10-01,lever,1
+2017-10-01,loading gear,3
+2017-10-01,lock arm,1
+2017-10-01,lock set,2
+2017-10-01,lock set bolt,1
+2017-10-01,m oil,48
+2017-10-01,magnet coil,1
+2017-10-01,master assembly,2
+2017-10-01,master cylender,2
+2017-10-01,mirror,3
+2017-10-01,number plate sticker,1
+2017-10-01,oil filter,20
+2017-10-01,oil lense,1
+2017-10-01,packing kit,2
+2017-10-01,parking bulb,3
+2017-10-01,petrol tap,1
+2017-10-01,petrol tube,1
+2017-10-01,plug,1
+2017-10-01,polish,32
+2017-10-01,pump kit,1
+2017-10-01,rc card,1
+2017-10-01,rear caliper assembly,2
+2017-10-01,rim,1
+2017-10-01,seat cover,5
+2017-10-01,shield rubber,1
+2017-10-01,side shield,1
+2017-10-01,silencer jall,1
+2017-10-01,silencer jall screw,1
+2017-10-01,spark plug,9
+2017-10-01,speedometer bulb,1
+2017-10-01,speedometer cable,1
+2017-10-01,speedometer cap,3
+2017-10-01,stay,1
+2017-10-01,step holder,1
+2017-10-01,switch,2
+2017-10-01,tail lamp bulb,9
+2017-10-01,tank cap,1
+2017-10-01,tank cleaning,1
+2017-10-01,tank cover,5
+2017-10-01,tensioner,2
+2017-10-01,timming chain,2
+2017-10-01,timming chain pad,2
+2017-10-01,tyre,1
+2017-10-01,tyre guard,1
+2017-10-01,tyre replacement,1
+2017-10-01,valve grainding,2
+2017-10-01,valve guide,2
+2017-10-01,valve kit,2
+2017-10-01,visior,4
+2017-10-01,washing,4
+2017-10-01,wheel rubber,23
+2017-10-01,wind shield,5
+2017-10-01,wind shield rubber,1
+2017-10-01,wind shield sticker,1
+2017-11-01,accelator cable,3
+2017-11-01,add on fees,1
+2017-11-01,air filter,73
+2017-11-01,air filter checkup,12
+2017-11-01,battery,2
+2017-11-01,battery charge,1
+2017-11-01,bc unit,1
+2017-11-01,bore,1
+2017-11-01,brake cable,2
+2017-11-01,brake light spring,1
+2017-11-01,brake light switch,6
+2017-11-01,brake pedal spring,1
+2017-11-01,brake shoe,47
+2017-11-01,buzzer,1
+2017-11-01,caliper assembly,2
+2017-11-01,carburetor cleaning,1
+2017-11-01,chain adjuster plate,1
+2017-11-01,chain lubrication,129
+2017-11-01,chain overhaul,10
+2017-11-01,chain set,1
+2017-11-01,chain sprocket,15
+2017-11-01,clutch assembly,8
+2017-11-01,clutch cable,12
+2017-11-01,clutch cover gasket,7
+2017-11-01,clutch lever,2
+2017-11-01,clutch overhual,5
+2017-11-01,clutch switch,1
+2017-11-01,coil,2
+2017-11-01,coil check,3
+2017-11-01,consumables,60
+2017-11-01,coolant oil,1
+2017-11-01,crash guard,1
+2017-11-01,dc kit,2
+2017-11-01,disc assembly,1
+2017-11-01,disc lever,1
+2017-11-01,disc oil,21
+2017-11-01,disc overhual,1
+2017-11-01,disc pad,25
+2017-11-01,disc plate,1
+2017-11-01,disc pump kit,6
+2017-11-01,disk pad,3
+2017-11-01,doom,1
+2017-11-01,drum bolt,2
+2017-11-01,engine guard,1
+2017-11-01,engine oil,142
+2017-11-01,engine oil topup,1
+2017-11-01,engine overhual,1
+2017-11-01,ex show room,1
+2017-11-01,flasher,1
+2017-11-01,float,1
+2017-11-01,foot rest,3
+2017-11-01,fork bend,1
+2017-11-01,fork cone set,2
+2017-11-01,fork oil,1
+2017-11-01,fork oil and oil seal,4
+2017-11-01,fork oil seal,1
+2017-11-01,fork overhual,1
+2017-11-01,front mudguard,2
+2017-11-01,gear lever,1
+2017-11-01,gear lever rubber,1
+2017-11-01,gear shaft,1
+2017-11-01,general service,81
+2017-11-01,handle lock,2
+2017-11-01,head lamp control,1
+2017-11-01,head light bulb,3
+2017-11-01,head light doom,2
+2017-11-01,head light switch,1
+2017-11-01,head rest,1
+2017-11-01,head rubber,1
+2017-11-01,horn,2
+2017-11-01,indicator,7
+2017-11-01,labour,7
+2017-11-01,ladies foot rest,2
+2017-11-01,ladies handle,4
+2017-11-01,life time tax,1
+2017-11-01,lock set,1
+2017-11-01,m oil,63
+2017-11-01,master assembly,1
+2017-11-01,mirror,1
+2017-11-01,number plate sticker,1
+2017-11-01,oil filter,16
+2017-11-01,one way clutch bush kit,1
+2017-11-01,pad,2
+2017-11-01,parking bulb,2
+2017-11-01,plug adapter,1
+2017-11-01,polish,45
+2017-11-01,ractifier,3
+2017-11-01,rebore,1
+2017-11-01,register fees,1
+2017-11-01,seat cover,4
+2017-11-01,self motor,2
+2017-11-01,self realy,1
+2017-11-01,shield rubber,1
+2017-11-01,side stand rubber,1
+2017-11-01,silencer jall screw,1
+2017-11-01,spark plug,5
+2017-11-01,speedometer cable,3
+2017-11-01,speedometer cap,1
+2017-11-01,sprocket bearing,2
+2017-11-01,starter coil,1
+2017-11-01,step holder,1
+2017-11-01,swing arm buish kit,1
+2017-11-01,switch,4
+2017-11-01,tail lamp bulb,4
+2017-11-01,tank bag,1
+2017-11-01,tank cleaning,3
+2017-11-01,tank cover,6
+2017-11-01,tensioner,1
+2017-11-01,timming chain,2
+2017-11-01,timming chain overhual,1
+2017-11-01,timming chain pad,1
+2017-11-01,valve grainding,1
+2017-11-01,valve guide,1
+2017-11-01,valve kit,1
+2017-11-01,visior,3
+2017-11-01,visior sticker,1
+2017-11-01,washing,1
+2017-11-01,wheel rubber,30
+2017-11-01,wind shield,3
+2017-11-01,wind shield rubber,1
+2017-11-01,wiring checkup,2
+2017-11-01,wiring kit,2
+2017-11-01,yoke rubber,1
+2017-12-01,accelator cable,4
+2017-12-01,air filter,80
+2017-12-01,air filter checkup,12
+2017-12-01,battery,3
+2017-12-01,battery charge,1
+2017-12-01,bore kit,1
+2017-12-01,brake cable,1
+2017-12-01,brake light switch,5
+2017-12-01,brake pedal,2
+2017-12-01,brake shoe,40
+2017-12-01,brake switch,1
+2017-12-01,bulb holder,1
+2017-12-01,caliper assembly,3
+2017-12-01,cdi unit,1
+2017-12-01,chain adjuster,1
+2017-12-01,chain lubrication,179
+2017-12-01,chain overhaul,10
+2017-12-01,chain set,1
+2017-12-01,chain sprocket,13
+2017-12-01,clutch assembly,8
+2017-12-01,clutch bell rest,1
+2017-12-01,clutch cable,18
+2017-12-01,clutch cam,1
+2017-12-01,clutch cam spring,2
+2017-12-01,clutch cover gasket,6
+2017-12-01,clutch lever,2
+2017-12-01,clutch overhual,6
+2017-12-01,clutch switch,2
+2017-12-01,coil check,1
+2017-12-01,consumables,82
+2017-12-01,coolant oil,6
+2017-12-01,coolant oil sensor,1
+2017-12-01,coolant oil top up,1
+2017-12-01,crank reset,1
+2017-12-01,crank shaft,1
+2017-12-01,crash guard,2
+2017-12-01,disc lever,2
+2017-12-01,disc oil,27
+2017-12-01,disc oil topup,1
+2017-12-01,disc overhual,1
+2017-12-01,disc pad,28
+2017-12-01,disc plate,1
+2017-12-01,disc pump kit,4
+2017-12-01,disk pad,4
+2017-12-01,doom,1
+2017-12-01,doom screw kit,2
+2017-12-01,doom screw rubber,1
+2017-12-01,drum bolt,2
+2017-12-01,engine bearing,1
+2017-12-01,engine labour,1
+2017-12-01,engine oil,188
+2017-12-01,engine oil topup,2
+2017-12-01,engine re condition,1
+2017-12-01,foot rest,5
+2017-12-01,fork assembly,1
+2017-12-01,fork bend,4
+2017-12-01,fork cone set,3
+2017-12-01,fork labour,1
+2017-12-01,fork oil,2
+2017-12-01,fork oil seal,1
+2017-12-01,fork overhual,2
+2017-12-01,gasket kit,1
+2017-12-01,gear lever,1
+2017-12-01,gear shaft,3
+2017-12-01,general service,102
+2017-12-01,gripper,2
+2017-12-01,half accelerator,1
+2017-12-01,half engine and carborator,1
+2017-12-01,handle holder,1
+2017-12-01,handle lock,1
+2017-12-01,handle weight,1
+2017-12-01,handlebar,2
+2017-12-01,head cap o ring,1
+2017-12-01,head light bulb,2
+2017-12-01,head light doom,1
+2017-12-01,head light grill,1
+2017-12-01,head light stay,1
+2017-12-01,head rest,1
+2017-12-01,head rubber,1
+2017-12-01,helmet lock,1
+2017-12-01,horn,2
+2017-12-01,indicator,5
+2017-12-01,indicator bulb,1
+2017-12-01,labour,1
+2017-12-01,ladies handle,1
+2017-12-01,loading gear,1
+2017-12-01,lock set,1
+2017-12-01,lock set bolt,1
+2017-12-01,m oil,87
+2017-12-01,master assembly,3
+2017-12-01,master cylender,1
+2017-12-01,mirror,2
+2017-12-01,mirror adjustment,1
+2017-12-01,number plate,1
+2017-12-01,oil filter,26
+2017-12-01,one way clutch,1
+2017-12-01,packing,1
+2017-12-01,packing kit,1
+2017-12-01,pad,2
+2017-12-01,parking bulb,2
+2017-12-01,payment,1
+2017-12-01,petrol,1
+2017-12-01,petrol lock,1
+2017-12-01,petrol tap,3
+2017-12-01,polish,62
+2017-12-01,ractifier,2
+2017-12-01,rear foot rest,2
+2017-12-01,saree guard,1
+2017-12-01,seat cover,7
+2017-12-01,seat cowl,2
+2017-12-01,shield rubber,1
+2017-12-01,side box,1
+2017-12-01,side shield,1
+2017-12-01,silencer jali,1
+2017-12-01,spark plug,5
+2017-12-01,speedometer bulb,2
+2017-12-01,speedometer cable,5
+2017-12-01,stand rubber,1
+2017-12-01,stay,1
+2017-12-01,stopper welding,1
+2017-12-01,switch,2
+2017-12-01,tail lamp assembly,1
+2017-12-01,tail lamp bulb,7
+2017-12-01,tail lamp glass,2
+2017-12-01,tank cap,1
+2017-12-01,tank cover,5
+2017-12-01,tank folp,1
+2017-12-01,tensioner,2
+2017-12-01,timming chain,2
+2017-12-01,timming chain pad,1
+2017-12-01,valve grainding,1
+2017-12-01,valve guide,1
+2017-12-01,valve kit,1
+2017-12-01,visior,2
+2017-12-01,washing,5
+2017-12-01,wheel alignment,1
+2017-12-01,wheel rubber,34
+2017-12-01,wind shield,3
+2017-12-01,wiring checkup,1
+2018-01-01,accelator cable,1
+2018-01-01,air filter,84
+2018-01-01,air filter checkup,15
+2018-01-01,balancing gear,1
+2018-01-01,battery,1
+2018-01-01,battery charge,1
+2018-01-01,bore kit,2
+2018-01-01,brake light switch,5
+2018-01-01,brake shoe,48
+2018-01-01,bulb,3
+2018-01-01,buzzer,1
+2018-01-01,caliper assembly,1
+2018-01-01,cam shaft,2
+2018-01-01,carburetor,1
+2018-01-01,carburetor diaphragm rubber,2
+2018-01-01,chain adjuster,2
+2018-01-01,chain adjuster plate,3
+2018-01-01,chain cover bolt,3
+2018-01-01,chain lubrication,157
+2018-01-01,chain overhaul,14
+2018-01-01,chain sprocket,18
+2018-01-01,clutch assembly,7
+2018-01-01,clutch cable,7
+2018-01-01,clutch cover gasket,5
+2018-01-01,clutch lever,1
+2018-01-01,clutch overhual,4
+2018-01-01,clutch switch,1
+2018-01-01,coil check,1
+2018-01-01,coil labour,1
+2018-01-01,cone set overhual,1
+2018-01-01,consumables,63
+2018-01-01,coolant oil,4
+2018-01-01,coolant oil sensor,1
+2018-01-01,coolant oil top up,1
+2018-01-01,crank reset,2
+2018-01-01,crank shaft,2
+2018-01-01,disc hose pipe,1
+2018-01-01,disc lever,1
+2018-01-01,disc oil,42
+2018-01-01,disc oil topup,1
+2018-01-01,disc overhual,1
+2018-01-01,disc pad,28
+2018-01-01,disc plate,1
+2018-01-01,disc pump kit,5
+2018-01-01,disk pad,2
+2018-01-01,drum bolt,5
+2018-01-01,engine bearing,2
+2018-01-01,engine guard,1
+2018-01-01,engine labour,3
+2018-01-01,engine oil,171
+2018-01-01,engine work,2
+2018-01-01,foot rest,3
+2018-01-01,fork oil,1
+2018-01-01,fork oil and oil seal,1
+2018-01-01,fork oil seal,1
+2018-01-01,gear and gb shaft oil seal,1
+2018-01-01,gear lever,1
+2018-01-01,gear lever rubber,1
+2018-01-01,gear shaft,3
+2018-01-01,general service,105
+2018-01-01,gripper,2
+2018-01-01,half accelerator,1
+2018-01-01,half axle,1
+2018-01-01,handle gripper,1
+2018-01-01,handle weight,1
+2018-01-01,handlebar,1
+2018-01-01,head cap o ring,2
+2018-01-01,head light bulb,5
+2018-01-01,head light switch,1
+2018-01-01,head o ring,1
+2018-01-01,head rest,2
+2018-01-01,head rubber,1
+2018-01-01,horn,1
+2018-01-01,indicator,2
+2018-01-01,indicator bulb,3
+2018-01-01,kicker stopper,1
+2018-01-01,labour,2
+2018-01-01,ladies handle,2
+2018-01-01,loading gear,1
+2018-01-01,lock arm,2
+2018-01-01,m oil,65
+2018-01-01,master assembly,1
+2018-01-01,mirror,5
+2018-01-01,number plate,1
+2018-01-01,oil filter,32
+2018-01-01,oil seal kit,1
+2018-01-01,one way clutch bush kit,1
+2018-01-01,packing kit,2
+2018-01-01,pad,1
+2018-01-01,parking bulb,3
+2018-01-01,petrol pipe,1
+2018-01-01,petrol tap,2
+2018-01-01,pickup coil,1
+2018-01-01,polish,52
+2018-01-01,rear foot rest,2
+2018-01-01,rear tube,1
+2018-01-01,seat cover,10
+2018-01-01,seat cowl,1
+2018-01-01,seat cowl sticker,1
+2018-01-01,service,1
+2018-01-01,service and one way clutch bush kit,1
+2018-01-01,shock absorber,1
+2018-01-01,spark plug,13
+2018-01-01,speedometer,1
+2018-01-01,speedometer cable,1
+2018-01-01,spring,2
+2018-01-01,sprocket bearing,16
+2018-01-01,sprocket rubber,19
+2018-01-01,starter coil,1
+2018-01-01,stopper welding,1
+2018-01-01,swing arm buish kit,1
+2018-01-01,switch,3
+2018-01-01,tail lamp assembly,1
+2018-01-01,tail lamp bulb,3
+2018-01-01,tank cleaning,3
+2018-01-01,tank cover,6
+2018-01-01,tensioner,3
+2018-01-01,timming chain,3
+2018-01-01,timming chain pad,2
+2018-01-01,tyre,2
+2018-01-01,tyre replacement,2
+2018-01-01,valve grainding,2
+2018-01-01,valve guide,2
+2018-01-01,valve kit,2
+2018-01-01,washing,2
+2018-01-01,wheel bearing,1
+2018-01-01,wheel bend,3
+2018-01-01,wheel rubber,24
+2018-01-01,wiring kit,1
+2018-02-01,air filter,73
+2018-02-01,air filter checkup,35
+2018-02-01,battery,7
+2018-02-01,battery belt,1
+2018-02-01,battery charge,3
+2018-02-01,bc unit,1
+2018-02-01,bearing,2
+2018-02-01,bedding bolt,1
+2018-02-01,bore kit,1
+2018-02-01,brake cable,2
+2018-02-01,brake light switch,3
+2018-02-01,brake pedal,1
+2018-02-01,brake shoe,40
+2018-02-01,bush kit,1
+2018-02-01,buzzer,3
+2018-02-01,caliper assembly,6
+2018-02-01,carburetor,1
+2018-02-01,cdi unit,2
+2018-02-01,chain adjuster plate,1
+2018-02-01,chain cover bolt,2
+2018-02-01,chain lubrication,170
+2018-02-01,chain overhaul,13
+2018-02-01,chain set,6
+2018-02-01,chain sprocket,24
+2018-02-01,clutch assembly,5
+2018-02-01,clutch cable,10
+2018-02-01,clutch cam spring,1
+2018-02-01,clutch cover gasket,9
+2018-02-01,clutch lever,4
+2018-02-01,clutch overhual,7
+2018-02-01,clutch switch,4
+2018-02-01,coil check,3
+2018-02-01,consumables,88
+2018-02-01,coolant oil,4
+2018-02-01,crash guard,1
+2018-02-01,crash guard bolt,1
+2018-02-01,disc lever,1
+2018-02-01,disc oil,38
+2018-02-01,disc overhual,1
+2018-02-01,disc pad,24
+2018-02-01,disc pump kit,4
+2018-02-01,disk pad,1
+2018-02-01,drum bolt,5
+2018-02-01,engine guard,3
+2018-02-01,engine labour,1
+2018-02-01,engine oil,187
+2018-02-01,engine tem sensor,1
+2018-02-01,foot rest,1
+2018-02-01,fork bend,4
+2018-02-01,fork cone set,5
+2018-02-01,fork oil,5
+2018-02-01,fork oil seal,4
+2018-02-01,fork overhual,2
+2018-02-01,fork spring,1
+2018-02-01,gb cover,1
+2018-02-01,gear lever,2
+2018-02-01,gear lever rubber,2
+2018-02-01,gear shaft,5
+2018-02-01,general service,96
+2018-02-01,half accelerator,1
+2018-02-01,handlebar,2
+2018-02-01,head cap labour,1
+2018-02-01,head cap o ring,1
+2018-02-01,head light bulb,2
+2018-02-01,head light doom,3
+2018-02-01,head light stay,1
+2018-02-01,head light switch,5
+2018-02-01,head rest,1
+2018-02-01,helmet lock,1
+2018-02-01,indicator,3
+2018-02-01,indicator bulb,1
+2018-02-01,labour,11
+2018-02-01,ladies handle,3
+2018-02-01,lock arm,1
+2018-02-01,lock set,2
+2018-02-01,low beam bulb,1
+2018-02-01,m oil,85
+2018-02-01,magnet assembly,1
+2018-02-01,master cylender,2
+2018-02-01,mirror,4
+2018-02-01,number plate,1
+2018-02-01,oil cooler pipe,1
+2018-02-01,oil filter,42
+2018-02-01,oil lense,1
+2018-02-01,packing kit,1
+2018-02-01,parking bulb,2
+2018-02-01,petrol filter,1
+2018-02-01,petrol tube,1
+2018-02-01,pickup coil,3
+2018-02-01,plug adapter,1
+2018-02-01,polish,53
+2018-02-01,pump kit,1
+2018-02-01,rear break light switch,1
+2018-02-01,rear foot rest,1
+2018-02-01,rear shock absorber,1
+2018-02-01,seat cover,4
+2018-02-01,self motor,1
+2018-02-01,self realy,1
+2018-02-01,shock absorber,1
+2018-02-01,side shield,1
+2018-02-01,side stand magnet,1
+2018-02-01,spark plug,14
+2018-02-01,speedometer,1
+2018-02-01,speedometer bulb,1
+2018-02-01,speedometer cable,3
+2018-02-01,speedometer cap,1
+2018-02-01,sprocket bearing,6
+2018-02-01,sprocket rubber,8
+2018-02-01,starter coil,1
+2018-02-01,step holder,1
+2018-02-01,switch,1
+2018-02-01,tail lamp assembly,1
+2018-02-01,tail lamp bulb,4
+2018-02-01,tank cleaning,1
+2018-02-01,tank cover,7
+2018-02-01,tensioner,1
+2018-02-01,timming chain,1
+2018-02-01,timming chain pad,1
+2018-02-01,tube,1
+2018-02-01,tyre,1
+2018-02-01,tyre replacement,2
+2018-02-01,valve grainding,1
+2018-02-01,valve guide,1
+2018-02-01,valve kit,1
+2018-02-01,visior,1
+2018-02-01,washing,3
+2018-02-01,wheel alignment,2
+2018-02-01,wheel assmebly,1
+2018-02-01,wheel bearing,2
+2018-02-01,wheel bend,3
+2018-02-01,wheel bolt,1
+2018-02-01,wheel rubber,24
+2018-02-01,wiring checkup,1
+2018-02-01,wiring kit,2
+2018-02-01,wiring labour,1
+2018-02-01,yoke,3
+2018-03-01,accelator cable,3
+2018-03-01,air filter,93
+2018-03-01,air filter checkup,38
+2018-03-01,axle,1
+2018-03-01,battery,6
+2018-03-01,battery charge,2
+2018-03-01,bedding bolt,1
+2018-03-01,bore gasket,1
+2018-03-01,bore kit,4
+2018-03-01,brake cable,2
+2018-03-01,brake lever,1
+2018-03-01,brake light switch,6
+2018-03-01,brake pedal spring,2
+2018-03-01,brake rubber,1
+2018-03-01,brake shoe,47
+2018-03-01,bush kit,1
+2018-03-01,buzzer,3
+2018-03-01,caliper assembly,3
+2018-03-01,carburetor assembly,1
+2018-03-01,carburetor diaphragm rubber,1
+2018-03-01,chain adjuster,1
+2018-03-01,chain adjuster plate,2
+2018-03-01,chain cover bolt,1
+2018-03-01,chain cover rubber,1
+2018-03-01,chain lubrication,212
+2018-03-01,chain overhaul,14
+2018-03-01,chain pad,1
+2018-03-01,chain sprocket,18
+2018-03-01,clutch assembly,10
+2018-03-01,clutch bell rest,1
+2018-03-01,clutch cable,20
+2018-03-01,clutch cam spring,1
+2018-03-01,clutch cover gasket,6
+2018-03-01,clutch cover packing,1
+2018-03-01,clutch lever,5
+2018-03-01,clutch overhual,6
+2018-03-01,clutch switch,4
+2018-03-01,clutch youck,1
+2018-03-01,coil check,4
+2018-03-01,cone set,1
+2018-03-01,consumables,106
+2018-03-01,coolant oil,2
+2018-03-01,coolant oil top up,1
+2018-03-01,crank reset,2
+2018-03-01,crank shaft,2
+2018-03-01,crash guard,1
+2018-03-01,dc kit,1
+2018-03-01,disc hose pipe,1
+2018-03-01,disc lever,2
+2018-03-01,disc oil,61
+2018-03-01,disc overhual,8
+2018-03-01,disc pad,27
+2018-03-01,disc plate,5
+2018-03-01,disc pump kit,5
+2018-03-01,disk pad,3
+2018-03-01,disk plate,1
+2018-03-01,doom,1
+2018-03-01,doom replacement,1
+2018-03-01,doom screw kit,1
+2018-03-01,drum bolt,2
+2018-03-01,drum bolt washer,3
+2018-03-01,engine bearing,2
+2018-03-01,engine guard,2
+2018-03-01,engine labour,3
+2018-03-01,engine oil,229
+2018-03-01,engine oil topup,1
+2018-03-01,ex show room,1
+2018-03-01,flasher,1
+2018-03-01,float,1
+2018-03-01,float needle,1
+2018-03-01,fog lamp,1
+2018-03-01,foot rest,8
+2018-03-01,fork assembly,2
+2018-03-01,fork bend,1
+2018-03-01,fork cone set,2
+2018-03-01,fork oil,1
+2018-03-01,fork oil seal,1
+2018-03-01,fork overhual,2
+2018-03-01,front mudguard,2
+2018-03-01,fuel guage,1
+2018-03-01,gasket kit,1
+2018-03-01,gb cover bolt,1
+2018-03-01,gear lever,2
+2018-03-01,gear lever rubber,1
+2018-03-01,gear shaft,1
+2018-03-01,general service,121
+2018-03-01,gripper,2
+2018-03-01,half accelerator,2
+2018-03-01,handlebar,1
+2018-03-01,head gasket kit,1
+2018-03-01,head light bulb,3
+2018-03-01,head light doom,1
+2018-03-01,head light relay,1
+2018-03-01,head light switch,3
+2018-03-01,head rest,2
+2018-03-01,head rubber,1
+2018-03-01,helmet cable,1
+2018-03-01,helmet lock,1
+2018-03-01,holder step,1
+2018-03-01,horn clip,1
+2018-03-01,indicator,6
+2018-03-01,indicator bulb,2
+2018-03-01,indicator buzzer,1
+2018-03-01,intake,1
+2018-03-01,labour,13
+2018-03-01,ladies handle,1
+2018-03-01,loading gear,3
+2018-03-01,lock arm,1
+2018-03-01,lock set,1
+2018-03-01,low beam bulb,1
+2018-03-01,m oil,107
+2018-03-01,magnet cover gasket,1
+2018-03-01,magnet cover packing,1
+2018-03-01,magnet overhual,1
+2018-03-01,magwheel bend,1
+2018-03-01,master assembly,3
+2018-03-01,master cylender,4
+2018-03-01,mirror,7
+2018-03-01,mudgaurd,1
+2018-03-01,mudgaurd clamp,1
+2018-03-01,oil filter,76
+2018-03-01,oil lense,1
+2018-03-01,one way body,1
+2018-03-01,one way clutch bush kit,2
+2018-03-01,packing kit,2
+2018-03-01,parking bulb,8
+2018-03-01,petrol,1
+2018-03-01,petrol pipe,1
+2018-03-01,petrol tube,2
+2018-03-01,pickup coil,2
+2018-03-01,polish,83
+2018-03-01,power adapter,1
+2018-03-01,power coil,1
+2018-03-01,ractifier,2
+2018-03-01,rear break light switch,2
+2018-03-01,rear foot rest,1
+2018-03-01,rear tube,1
+2018-03-01,register expenses,1
+2018-03-01,seat cover,2
+2018-03-01,seat cowl,1
+2018-03-01,shield rubber,1
+2018-03-01,shield square rubber,1
+2018-03-01,shock absorber,2
+2018-03-01,side stand,1
+2018-03-01,side stand bracket,1
+2018-03-01,side switch magnet,1
+2018-03-01,spark plug,14
+2018-03-01,speedometer cable,2
+2018-03-01,speedometer cap,1
+2018-03-01,speedometer worm,1
+2018-03-01,spring,2
+2018-03-01,spring and break shoe,1
+2018-03-01,sprocket bearing,10
+2018-03-01,sprocket rubber,6
+2018-03-01,starter coil,2
+2018-03-01,stay,2
+2018-03-01,step holder,2
+2018-03-01,switch,2
+2018-03-01,tail lamp assembly,2
+2018-03-01,tail lamp bulb,3
+2018-03-01,tail lamp glass,1
+2018-03-01,tank bag,1
+2018-03-01,tank cover,8
+2018-03-01,tank dent,2
+2018-03-01,tapped welding,1
+2018-03-01,teflon coating,1
+2018-03-01,tensioner,4
+2018-03-01,timming chain,3
+2018-03-01,timming chain pad,3
+2018-03-01,tyre,4
+2018-03-01,tyre guard,1
+2018-03-01,tyre replacement,2
+2018-03-01,valve grainding,3
+2018-03-01,valve guide,3
+2018-03-01,valve kit,3
+2018-03-01,visior,1
+2018-03-01,washing,4
+2018-03-01,washing and polish,1
+2018-03-01,welding,2
+2018-03-01,wheel axle,1
+2018-03-01,wheel bearing,2
+2018-03-01,wheel bend,3
+2018-03-01,wheel rubber,28
+2018-03-01,wind shield,3
+2018-03-01,wind shield sticker,1
+2018-03-01,yoke,1
+2018-04-01,accelator cable,2
+2018-04-01,air filter,90
+2018-04-01,air filter checkup,41
+2018-04-01,battery,4
+2018-04-01,bearing wielding,1
+2018-04-01,bolt wielding,1
+2018-04-01,bore kit,3
+2018-04-01,brake cable,2
+2018-04-01,brake lever,2
+2018-04-01,brake light switch,4
+2018-04-01,brake pedal,1
+2018-04-01,brake pedal spring,1
+2018-04-01,brake shoe,56
+2018-04-01,buzzer,2
+2018-04-01,caliper assembly,4
+2018-04-01,carburetor assembly,1
+2018-04-01,case welding,1
+2018-04-01,cdi unit,4
+2018-04-01,chain adjuster,1
+2018-04-01,chain adjuster plate,1
+2018-04-01,chain cover beading,1
+2018-04-01,chain lubrication,197
+2018-04-01,chain overhaul,16
+2018-04-01,chain sprocket,24
+2018-04-01,choke cable,2
+2018-04-01,clutch assembly,14
+2018-04-01,clutch bell rest,1
+2018-04-01,clutch cable,24
+2018-04-01,clutch cam switch,1
+2018-04-01,clutch cover gasket,9
+2018-04-01,clutch lever,5
+2018-04-01,clutch overhual,9
+2018-04-01,clutch rollers,1
+2018-04-01,clutch shoe,1
+2018-04-01,clutch spring kit,1
+2018-04-01,clutch switch,2
+2018-04-01,clutch youck,1
+2018-04-01,coil check,9
+2018-04-01,coil labour,1
+2018-04-01,consumables,95
+2018-04-01,coolant oil,4
+2018-04-01,crank reset,3
+2018-04-01,crank shaft,3
+2018-04-01,crash gasket,1
+2018-04-01,crash guard,4
+2018-04-01,disc lever,2
+2018-04-01,disc oil,65
+2018-04-01,disc oil topup,4
+2018-04-01,disc overhual,5
+2018-04-01,disc pad,27
+2018-04-01,disc plate,4
+2018-04-01,disc pump kit,5
+2018-04-01,disk pad,3
+2018-04-01,doom,3
+2018-04-01,doom screw kit,1
+2018-04-01,drum bolt,1
+2018-04-01,engine bearing,3
+2018-04-01,engine guard,2
+2018-04-01,engine labour,2
+2018-04-01,engine oil,228
+2018-04-01,foot rest,3
+2018-04-01,fork assembly,1
+2018-04-01,fork bend,2
+2018-04-01,fork cone set,3
+2018-04-01,fork oil,3
+2018-04-01,fork oil seal,3
+2018-04-01,fork overhual,2
+2018-04-01,front mudguard,3
+2018-04-01,fuel guage overhual,1
+2018-04-01,fuel tank,1
+2018-04-01,fuse box,2
+2018-04-01,gear box oil,1
+2018-04-01,gear lever,1
+2018-04-01,gear lever bolt,1
+2018-04-01,gear lever rubber,1
+2018-04-01,gear shaft,2
+2018-04-01,gear shaft oil seal,1
+2018-04-01,general service,127
+2018-04-01,grill set,1
+2018-04-01,grip set,1
+2018-04-01,gripper,2
+2018-04-01,half accelerator,1
+2018-04-01,handle bar,1
+2018-04-01,handle weight,2
+2018-04-01,handle weight bolt,1
+2018-04-01,handlebar,4
+2018-04-01,head light bulb,5
+2018-04-01,head light doom,4
+2018-04-01,head light switch,1
+2018-04-01,head rest,3
+2018-04-01,head stay,1
+2018-04-01,high beam bulb,1
+2018-04-01,indicator,5
+2018-04-01,indicator bulb,1
+2018-04-01,kicker stopper,1
+2018-04-01,labour,10
+2018-04-01,ladies handle,2
+2018-04-01,loading gear,2
+2018-04-01,lock arm,2
+2018-04-01,lock set,1
+2018-04-01,lock set bolt,1
+2018-04-01,lock type petrol tap,1
+2018-04-01,low beam bulb,1
+2018-04-01,m oil,91
+2018-04-01,magnet coil and pickup coil,1
+2018-04-01,magnet cover gasket,1
+2018-04-01,major kit,1
+2018-04-01,master cylender,7
+2018-04-01,mirror,13
+2018-04-01,oil cooler cap,1
+2018-04-01,oil filter,48
+2018-04-01,oil seal kit,1
+2018-04-01,one way clutch bush kit,1
+2018-04-01,packing,4
+2018-04-01,packing kit,3
+2018-04-01,pad,1
+2018-04-01,parking bulb,5
+2018-04-01,petrol,1
+2018-04-01,petrol tube,3
+2018-04-01,pickup coil,6
+2018-04-01,polish,78
+2018-04-01,puncher,2
+2018-04-01,rear foot rest,1
+2018-04-01,rear tube,1
+2018-04-01,seat cover,10
+2018-04-01,seat lock,1
+2018-04-01,shock absorber,1
+2018-04-01,side stand,1
+2018-04-01,side stand spring,1
+2018-04-01,silencer,1
+2018-04-01,silencer jall,3
+2018-04-01,size bolt,1
+2018-04-01,spark plug,22
+2018-04-01,speedometer cable,2
+2018-04-01,sprocket bearing,11
+2018-04-01,sprocket rubber,14
+2018-04-01,stand welding,1
+2018-04-01,starter coil,4
+2018-04-01,stay,1
+2018-04-01,swing arm buish kit,1
+2018-04-01,switch,2
+2018-04-01,tail lamp bulb,8
+2018-04-01,tank  rubber,1
+2018-04-01,tank cover,9
+2018-04-01,tank logo,1
+2018-04-01,teflon coating,3
+2018-04-01,tensioner,3
+2018-04-01,timming chain,3
+2018-04-01,timming chain pad,3
+2018-04-01,tyre,6
+2018-04-01,tyre replacement,1
+2018-04-01,u bush,1
+2018-04-01,valve grainding,3
+2018-04-01,valve guide,3
+2018-04-01,valve kit,3
+2018-04-01,visior,5
+2018-04-01,washing,3
+2018-04-01,welding,1
+2018-04-01,wheel acceletor cable,1
+2018-04-01,wheel alignment,1
+2018-04-01,wheel bearing,1
+2018-04-01,wheel rubber,29
+2018-04-01,wind shield,5
+2018-04-01,wind shield sticker,2
+2018-04-01,wiring checkup,2
+2018-04-01,wiring labour,1
+2018-04-01,yoke lever,1
+2018-05-01,accelator cable,1
+2018-05-01,air filter,107
+2018-05-01,air filter checkup,30
+2018-05-01,battery,6
+2018-05-01,battery charge,1
+2018-05-01,bore kit,4
+2018-05-01,brake lever,1
+2018-05-01,brake shoe,53
+2018-05-01,buzzer,2
+2018-05-01,caliper assembly,4
+2018-05-01,cam shaft,1
+2018-05-01,carburetor assembly,2
+2018-05-01,carburetor diaphragm rubber,1
+2018-05-01,case welding,1
+2018-05-01,chain adjuster,1
+2018-05-01,chain adjuster plate,3
+2018-05-01,chain cover beading,1
+2018-05-01,chain cover bolt,2
+2018-05-01,chain link lock,1
+2018-05-01,chain lubrication,203
+2018-05-01,chain overhaul,12
+2018-05-01,chain set,2
+2018-05-01,chain sprocket,22
+2018-05-01,clutch assembly,14
+2018-05-01,clutch bell rest,1
+2018-05-01,clutch cable,17
+2018-05-01,clutch cover gasket,12
+2018-05-01,clutch lever,7
+2018-05-01,clutch overhual,10
+2018-05-01,coil check,5
+2018-05-01,coil overhual,1
+2018-05-01,cone set,1
+2018-05-01,consumables,96
+2018-05-01,coolant oil,5
+2018-05-01,coolant oil top up,1
+2018-05-01,crank reset,3
+2018-05-01,crank shaft,3
+2018-05-01,crash guard,1
+2018-05-01,dc kit,2
+2018-05-01,disc lever,3
+2018-05-01,disc oil,53
+2018-05-01,disc oil topup,2
+2018-05-01,disc overhual,2
+2018-05-01,disc pad,38
+2018-05-01,disc plate,3
+2018-05-01,disc pump kit,5
+2018-05-01,disk pad,1
+2018-05-01,drum bolt,6
+2018-05-01,engine,1
+2018-05-01,engine bearing,4
+2018-05-01,engine guard,2
+2018-05-01,engine labour,5
+2018-05-01,engine oil,226
+2018-05-01,fog lamp,1
+2018-05-01,foot rest,4
+2018-05-01,fork bend,3
+2018-05-01,fork cone set,4
+2018-05-01,fork oil,8
+2018-05-01,fork oil seal,4
+2018-05-01,fork overhual,4
+2018-05-01,gb bolt,1
+2018-05-01,gear lever,1
+2018-05-01,gear lever rubber,1
+2018-05-01,gear lever welding,1
+2018-05-01,gear shaft,7
+2018-05-01,general service,121
+2018-05-01,grip handle,1
+2018-05-01,gripper,2
+2018-05-01,half accelerator,2
+2018-05-01,handle bar,1
+2018-05-01,handle lock,1
+2018-05-01,handle weight,1
+2018-05-01,handlebar,2
+2018-05-01,head cap o ring,2
+2018-05-01,head light bulb,8
+2018-05-01,head light doom,1
+2018-05-01,head light holder,2
+2018-05-01,head light stay,2
+2018-05-01,head light switch,2
+2018-05-01,head rest,4
+2018-05-01,head rubber,1
+2018-05-01,head stay,1
+2018-05-01,indicator,6
+2018-05-01,indicator bulb,4
+2018-05-01,indicator buzzer,1
+2018-05-01,kicker spring,1
+2018-05-01,kicker stopper,1
+2018-05-01,labour,15
+2018-05-01,ladies handle,1
+2018-05-01,lever,1
+2018-05-01,loading gear,3
+2018-05-01,lock arm,2
+2018-05-01,low beam bulb,1
+2018-05-01,m oil,95
+2018-05-01,magnet cover bolt,1
+2018-05-01,magnet cover gasket,1
+2018-05-01,magnet cover sticker,1
+2018-05-01,mask,1
+2018-05-01,master cylender,1
+2018-05-01,mirror,4
+2018-05-01,mobile holder,1
+2018-05-01,number plate,2
+2018-05-01,o ring kit,1
+2018-05-01,oil filter,50
+2018-05-01,oil lense,2
+2018-05-01,oil pump,1
+2018-05-01,oil seal kit,1
+2018-05-01,one way clutch bush kit,4
+2018-05-01,packing,2
+2018-05-01,packing kit,5
+2018-05-01,pad,2
+2018-05-01,parking bulb,7
+2018-05-01,petrol lock,1
+2018-05-01,petrol tap,2
+2018-05-01,petrol tube,1
+2018-05-01,pickup charges,1
+2018-05-01,pickup coil,4
+2018-05-01,pilot light,1
+2018-05-01,polish,69
+2018-05-01,ractifier,1
+2018-05-01,rc card,2
+2018-05-01,rear foot rest,1
+2018-05-01,seat cover,6
+2018-05-01,shield rubber,1
+2018-05-01,shield square rubber,2
+2018-05-01,side shield,1
+2018-05-01,side stand spring,1
+2018-05-01,silencer gasket,1
+2018-05-01,silencer jall,1
+2018-05-01,size bolt,1
+2018-05-01,spark plug,18
+2018-05-01,speedometer,1
+2018-05-01,speedometer cable,1
+2018-05-01,spring,1
+2018-05-01,sprocket bearing,16
+2018-05-01,sprocket rubber,13
+2018-05-01,starter coil,4
+2018-05-01,stopper holder,1
+2018-05-01,swing arm buish kit,1
+2018-05-01,switch,3
+2018-05-01,tail lamp bulb,6
+2018-05-01,tail lamp glass,4
+2018-05-01,tank cleaning,2
+2018-05-01,tank cover,4
+2018-05-01,tank dent,1
+2018-05-01,tensioner,6
+2018-05-01,timming chain,6
+2018-05-01,timming chain overhual,1
+2018-05-01,timming chain pad,6
+2018-05-01,tubeless neck,2
+2018-05-01,tyre,3
+2018-05-01,tyre replacement,1
+2018-05-01,valve grainding,4
+2018-05-01,valve guide,4
+2018-05-01,valve kit,4
+2018-05-01,visior,1
+2018-05-01,washing,2
+2018-05-01,wheel bend,2
+2018-05-01,wheel rubber,31
+2018-05-01,wind shield,2
+2018-05-01,yoke rubber,1
+2018-06-01,accelator cable,2
+2018-06-01,air filter,106
+2018-06-01,air filter checkup,37
+2018-06-01,battery,6
+2018-06-01,battery charge,2
+2018-06-01,battery clip,1
+2018-06-01,bearing,4
+2018-06-01,bearing set,1
+2018-06-01,bore kit,5
+2018-06-01,brake lever,1
+2018-06-01,brake light switch,4
+2018-06-01,brake pedal spring,2
+2018-06-01,brake shoe,41
+2018-06-01,buzzer,3
+2018-06-01,cable lock,1
+2018-06-01,caliper assembly,3
+2018-06-01,cam shaft,1
+2018-06-01,carburetor assembly,4
+2018-06-01,carburetor diaphragm rubber,4
+2018-06-01,case bearing,1
+2018-06-01,case welding,1
+2018-06-01,cdi unit,2
+2018-06-01,chain adjuster,1
+2018-06-01,chain adjuster plate,1
+2018-06-01,chain cover beading,1
+2018-06-01,chain cover bolt,3
+2018-06-01,chain lubrication,190
+2018-06-01,chain overhaul,20
+2018-06-01,chain set,2
+2018-06-01,chain sprocket,26
+2018-06-01,clutch assembly,10
+2018-06-01,clutch bell rest,2
+2018-06-01,clutch cable,20
+2018-06-01,clutch cam,1
+2018-06-01,clutch cover gasket,11
+2018-06-01,clutch lever,5
+2018-06-01,clutch overhual,8
+2018-06-01,clutch repalcement,1
+2018-06-01,clutch switch,2
+2018-06-01,coil check,1
+2018-06-01,consumables,79
+2018-06-01,coolant oil,7
+2018-06-01,coolant oil sensor,1
+2018-06-01,crank reset,4
+2018-06-01,crank shaft,5
+2018-06-01,crash guard,1
+2018-06-01,dc kit,1
+2018-06-01,disc lever,2
+2018-06-01,disc oil,55
+2018-06-01,disc oil topup,1
+2018-06-01,disc overhual,2
+2018-06-01,disc pad,21
+2018-06-01,disc plate,2
+2018-06-01,disc pump kit,12
+2018-06-01,disk pad,8
+2018-06-01,doom replacement,1
+2018-06-01,drum bolt,10
+2018-06-01,engine bearing,4
+2018-06-01,engine guard,2
+2018-06-01,engine labour,5
+2018-06-01,engine oil,211
+2018-06-01,foot rest,4
+2018-06-01,fork bend,3
+2018-06-01,fork cone set,2
+2018-06-01,fork oil,5
+2018-06-01,fork oil seal,3
+2018-06-01,fork overhual,3
+2018-06-01,front mudguard,7
+2018-06-01,gasket kit,1
+2018-06-01,gb bolt,1
+2018-06-01,gear lever,2
+2018-06-01,gear lever assembly,1
+2018-06-01,gear lever bolt,2
+2018-06-01,gear lever bush,1
+2018-06-01,gear lever oil seal,1
+2018-06-01,gear lever rubber,1
+2018-06-01,gear shaft,5
+2018-06-01,general service,134
+2018-06-01,half accelerator,2
+2018-06-01,half axle,1
+2018-06-01,handle gripper,1
+2018-06-01,handle weight,2
+2018-06-01,handlebar,3
+2018-06-01,head light bulb,6
+2018-06-01,head light stay,1
+2018-06-01,head rest,4
+2018-06-01,horn,2
+2018-06-01,indicator,4
+2018-06-01,jall screw,1
+2018-06-01,kicker rubber,1
+2018-06-01,kicker spring,1
+2018-06-01,kicker stopper,1
+2018-06-01,labour,7
+2018-06-01,ladies foot rest,1
+2018-06-01,ladies handle,1
+2018-06-01,lever rubber,1
+2018-06-01,loading gear,3
+2018-06-01,lock arm,3
+2018-06-01,lock set,1
+2018-06-01,low beam bulb,1
+2018-06-01,m oil,85
+2018-06-01,major kit,1
+2018-06-01,master cylender,3
+2018-06-01,mirror,5
+2018-06-01,mudguard clamp,1
+2018-06-01,number plate,2
+2018-06-01,number plate with sticker,1
+2018-06-01,oil filter,55
+2018-06-01,oil lense,1
+2018-06-01,oil seal kit,1
+2018-06-01,oil seal water pump,1
+2018-06-01,one way clutch bush kit,3
+2018-06-01,packing kit,5
+2018-06-01,parking bulb,1
+2018-06-01,petrol,2
+2018-06-01,petrol filter,1
+2018-06-01,petrol lock,1
+2018-06-01,petrol tap,3
+2018-06-01,petrol tube,4
+2018-06-01,pickup coil,1
+2018-06-01,pilot light,1
+2018-06-01,plug,1
+2018-06-01,polish,50
+2018-06-01,puncher,1
+2018-06-01,rc card,1
+2018-06-01,rear break light switch,1
+2018-06-01,rear caliper assembly,3
+2018-06-01,saree guard,1
+2018-06-01,seat,2
+2018-06-01,seat cover,9
+2018-06-01,seat lock,1
+2018-06-01,self motor,1
+2018-06-01,self realy,1
+2018-06-01,service,1
+2018-06-01,shield lock,1
+2018-06-01,side lock,1
+2018-06-01,side shield,1
+2018-06-01,side shield lock,2
+2018-06-01,side stand,1
+2018-06-01,silencer jall,1
+2018-06-01,size nut,1
+2018-06-01,spark plug,37
+2018-06-01,speedometer,1
+2018-06-01,speedometer cable,4
+2018-06-01,speedometer worm,2
+2018-06-01,spring,1
+2018-06-01,sprocket bearing,13
+2018-06-01,sprocket rubber,16
+2018-06-01,stand lock pin,1
+2018-06-01,starter coil,2
+2018-06-01,sticker,1
+2018-06-01,switch,1
+2018-06-01,tail lamp bulb,3
+2018-06-01,tank cap,1
+2018-06-01,tank cover,6
+2018-06-01,tensioner,8
+2018-06-01,timming chain,7
+2018-06-01,timming chain pad,7
+2018-06-01,tubeless neck,1
+2018-06-01,tyre,7
+2018-06-01,tyre replacement,2
+2018-06-01,valve grainding,5
+2018-06-01,valve guide,5
+2018-06-01,valve kit,5
+2018-06-01,visior,1
+2018-06-01,washing,2
+2018-06-01,wheel bearing,5
+2018-06-01,wheel rubber,34
+2018-06-01,wheel tube,1
+2018-06-01,wind shield,3
+2018-06-01,wiring check with labor,1
+2018-06-01,wiring checkup,1
+2018-06-01,wiring kit,2
+2018-06-01,yoke,1
+2018-06-01,yoke set,1
+2018-07-01,accelator cable,6
+2018-07-01,air filter,96
+2018-07-01,air filter checkup,31
+2018-07-01,balancing gear,1
+2018-07-01,battery,3
+2018-07-01,bore kit,4
+2018-07-01,brake bush kit,1
+2018-07-01,brake cable,1
+2018-07-01,brake light switch,6
+2018-07-01,brake pedal,1
+2018-07-01,brake pedal spring,1
+2018-07-01,brake shoe,56
+2018-07-01,bulb,1
+2018-07-01,bush kit,1
+2018-07-01,buzzer,4
+2018-07-01,caliper assembly,4
+2018-07-01,cam shaft,3
+2018-07-01,carburetor assembly,2
+2018-07-01,carburetor diaphragm rubber,2
+2018-07-01,cdi unit,1
+2018-07-01,chain cover bolt,3
+2018-07-01,chain lubrication,175
+2018-07-01,chain overhaul,22
+2018-07-01,chain sprocket,24
+2018-07-01,clutch assembly,11
+2018-07-01,clutch bell rest,2
+2018-07-01,clutch cable,16
+2018-07-01,clutch cam,1
+2018-07-01,clutch cover gasket,10
+2018-07-01,clutch lever,5
+2018-07-01,clutch overhual,11
+2018-07-01,clutch switch,1
+2018-07-01,coil check,3
+2018-07-01,coil labour,1
+2018-07-01,consumables,68
+2018-07-01,coolant oil,4
+2018-07-01,crank reset,3
+2018-07-01,crank shaft,3
+2018-07-01,crash guard,2
+2018-07-01,disc oil,33
+2018-07-01,disc overhual,4
+2018-07-01,disc pad,26
+2018-07-01,disc plate,2
+2018-07-01,disc pump kit,6
+2018-07-01,disk pad,4
+2018-07-01,drum bolt,9
+2018-07-01,engine bearing,3
+2018-07-01,engine case,1
+2018-07-01,engine guard,4
+2018-07-01,engine labour,5
+2018-07-01,engine oil,197
+2018-07-01,fiber lock,1
+2018-07-01,float needle,1
+2018-07-01,fog lamp,1
+2018-07-01,foot rest,4
+2018-07-01,fork cone set,2
+2018-07-01,fork oil,5
+2018-07-01,fork oil seal,4
+2018-07-01,fork overhual,4
+2018-07-01,front mudguard,1
+2018-07-01,gear and gb shaft oil seal,1
+2018-07-01,gear lever,1
+2018-07-01,gear lever rubber,1
+2018-07-01,gear shaft,6
+2018-07-01,gear shaft oil seal,2
+2018-07-01,gear shaft spring,1
+2018-07-01,general service,124
+2018-07-01,gripper,2
+2018-07-01,half accelerator,3
+2018-07-01,half axle,1
+2018-07-01,handle gripper,1
+2018-07-01,handlebar,2
+2018-07-01,head light bulb,4
+2018-07-01,head light switch,5
+2018-07-01,head light wiring,1
+2018-07-01,head rest,3
+2018-07-01,head sensor,1
+2018-07-01,helmet lock,2
+2018-07-01,horn,1
+2018-07-01,indicator,3
+2018-07-01,indicator bulb,1
+2018-07-01,indicator buzzer,1
+2018-07-01,labour,9
+2018-07-01,ladies handle,3
+2018-07-01,light relay,1
+2018-07-01,light switch,1
+2018-07-01,lighting coil,1
+2018-07-01,loading gear,4
+2018-07-01,lock arm,4
+2018-07-01,lock type petrol tap,1
+2018-07-01,low beam bulb,1
+2018-07-01,m oil,72
+2018-07-01,master assembly,2
+2018-07-01,master cylender,4
+2018-07-01,mirror,3
+2018-07-01,oil filter,46
+2018-07-01,oil lense,3
+2018-07-01,oil seal kit,2
+2018-07-01,one way clutch bush kit,2
+2018-07-01,packing kit,5
+2018-07-01,parking bulb,7
+2018-07-01,petrol filter,2
+2018-07-01,petrol pipe,1
+2018-07-01,petrol tap,2
+2018-07-01,pickup coil,3
+2018-07-01,plug,1
+2018-07-01,plug adapter,1
+2018-07-01,polish,49
+2018-07-01,ractifier,2
+2018-07-01,radiator overhual,1
+2018-07-01,rear caliper assembly,1
+2018-07-01,rim tubless neck,1
+2018-07-01,seat cover,4
+2018-07-01,shield rubber,2
+2018-07-01,side box,1
+2018-07-01,spark plug,40
+2018-07-01,speedometer,1
+2018-07-01,speedometer bulb,1
+2018-07-01,speedometer cable,2
+2018-07-01,spring and break shoe,1
+2018-07-01,sprocket bearing,10
+2018-07-01,sprocket rubber,10
+2018-07-01,starter coil,2
+2018-07-01,step holder,1
+2018-07-01,stopper,1
+2018-07-01,swing arm buish kit,1
+2018-07-01,switch,3
+2018-07-01,tail lamp assembly,1
+2018-07-01,tail lamp bulb,5
+2018-07-01,tail lamp cover,1
+2018-07-01,tail lamp glass,1
+2018-07-01,tank cleaning,1
+2018-07-01,tank cover,6
+2018-07-01,tank folp,1
+2018-07-01,tensioner,6
+2018-07-01,timming chain,6
+2018-07-01,timming chain pad,6
+2018-07-01,tyre,3
+2018-07-01,tyre replacement,1
+2018-07-01,valve grainding,5
+2018-07-01,valve guide,5
+2018-07-01,valve kit,5
+2018-07-01,visior,1
+2018-07-01,washing,3
+2018-07-01,wheel alignment,1
+2018-07-01,wheel bearing,2
+2018-07-01,wheel bend,3
+2018-07-01,wheel rubber,46
+2018-07-01,wind shield,1
+2018-07-01,wiring,2
+2018-07-01,wiring checkup,1
+2018-07-01,wiring kit,1
+2018-07-01,wiring labour,1
+2018-07-01,yoke,1
+2018-07-01,yoke rubber,1
+2018-08-01,accelator cable,6
+2018-08-01,air filter,114
+2018-08-01,air filter checkup,10
+2018-08-01,air intake,1
+2018-08-01,balancing gear,2
+2018-08-01,battery,6
+2018-08-01,battery belt,2
+2018-08-01,battery tarminal,1
+2018-08-01,bearing set,1
+2018-08-01,bore kit,7
+2018-08-01,brake cable,2
+2018-08-01,brake lever,1
+2018-08-01,brake light switch,8
+2018-08-01,brake rod,1
+2018-08-01,brake shoe,44
+2018-08-01,bush kit,1
+2018-08-01,caliper assembly,2
+2018-08-01,cam shaft,3
+2018-08-01,carburetor,1
+2018-08-01,carburetor diaphragm rubber,1
+2018-08-01,carburetor plate,1
+2018-08-01,cdi unit,2
+2018-08-01,chain adjuster,1
+2018-08-01,chain adjuster plate,1
+2018-08-01,chain cover bolt,5
+2018-08-01,chain lubrication,174
+2018-08-01,chain overhaul,13
+2018-08-01,chain sprocket,15
+2018-08-01,choke sensor,1
+2018-08-01,clutch assembly,11
+2018-08-01,clutch bell rest,4
+2018-08-01,clutch cable,30
+2018-08-01,clutch cover gasket,9
+2018-08-01,clutch lever,5
+2018-08-01,clutch overhual,8
+2018-08-01,clutch switch,1
+2018-08-01,coil check,4
+2018-08-01,consumables,76
+2018-08-01,coolant oil,9
+2018-08-01,crank reset,6
+2018-08-01,crank shaft,6
+2018-08-01,crash guard,1
+2018-08-01,dc kit,1
+2018-08-01,disc oil,59
+2018-08-01,disc overhual,2
+2018-08-01,disc pad,28
+2018-08-01,disc plate,2
+2018-08-01,disc pump kit,3
+2018-08-01,disk pad,8
+2018-08-01,doom screw kit,1
+2018-08-01,drum bolt,6
+2018-08-01,engine bearing,6
+2018-08-01,engine guard,3
+2018-08-01,engine labour,6
+2018-08-01,engine oil,197
+2018-08-01,engine work,1
+2018-08-01,fitting labour,1
+2018-08-01,fog lamp set,1
+2018-08-01,foot rest,7
+2018-08-01,fork bend,1
+2018-08-01,fork cone set,1
+2018-08-01,fork oil,1
+2018-08-01,fork oil and oil seal,1
+2018-08-01,fork oil seal,1
+2018-08-01,fork overhual,2
+2018-08-01,fuse box,1
+2018-08-01,gb shaft oil seal,2
+2018-08-01,gear and washer,1
+2018-08-01,gear box,1
+2018-08-01,gear shaft,4
+2018-08-01,gear shaft oil seal,1
+2018-08-01,general service,113
+2018-08-01,grip handle,2
+2018-08-01,gripper,2
+2018-08-01,half accelerator,4
+2018-08-01,half axle,1
+2018-08-01,handle holder,1
+2018-08-01,handlebar,1
+2018-08-01,head light bulb,5
+2018-08-01,head light doom,2
+2018-08-01,head light stay,1
+2018-08-01,head rest,7
+2018-08-01,head rubber,2
+2018-08-01,indicator,5
+2018-08-01,indicator bulb,3
+2018-08-01,kicker stopper,3
+2018-08-01,labour,7
+2018-08-01,ladies foot rest,2
+2018-08-01,ladies handle,1
+2018-08-01,light relay,1
+2018-08-01,loading gear,7
+2018-08-01,lock arm,5
+2018-08-01,lock set,2
+2018-08-01,m oil,74
+2018-08-01,master assembly,1
+2018-08-01,master cylender,5
+2018-08-01,mirror,2
+2018-08-01,mudguard,2
+2018-08-01,number plate,1
+2018-08-01,number plate clamp,1
+2018-08-01,oil filter,45
+2018-08-01,oil lense,3
+2018-08-01,oil seal kit,4
+2018-08-01,one way clutch,1
+2018-08-01,one way clutch body,1
+2018-08-01,one way clutch bush kit,3
+2018-08-01,packing kit,7
+2018-08-01,parking bulb,5
+2018-08-01,petrol,2
+2018-08-01,petrol lock,1
+2018-08-01,petrol tap,1
+2018-08-01,petrol tube,1
+2018-08-01,pickup coil,2
+2018-08-01,plug adapter,1
+2018-08-01,polish,57
+2018-08-01,ractifier,1
+2018-08-01,rear caliper assembly,1
+2018-08-01,seat cover,6
+2018-08-01,self motor,1
+2018-08-01,service,1
+2018-08-01,shield rubber,2
+2018-08-01,shield square rubber,1
+2018-08-01,side lock,1
+2018-08-01,side sheld rubber,1
+2018-08-01,side shield,1
+2018-08-01,side stand,2
+2018-08-01,side stand bracket,1
+2018-08-01,side stand spring,2
+2018-08-01,silencer jall,1
+2018-08-01,silencer jall screw,1
+2018-08-01,size bolt,1
+2018-08-01,spark plug,49
+2018-08-01,speedometer,1
+2018-08-01,speedometer cable,2
+2018-08-01,speedometer clamp,1
+2018-08-01,speedometer cover,1
+2018-08-01,sprocket bearing,9
+2018-08-01,sprocket rubber,8
+2018-08-01,switch,1
+2018-08-01,tail lamp assembly,2
+2018-08-01,tail lamp bulb,8
+2018-08-01,tail lamp cover,1
+2018-08-01,tank cover,13
+2018-08-01,tensioner,8
+2018-08-01,timming chain,8
+2018-08-01,timming chain pad,8
+2018-08-01,top plate,2
+2018-08-01,tyre,1
+2018-08-01,valve grainding,7
+2018-08-01,valve guide,7
+2018-08-01,valve kit,8
+2018-08-01,visior,2
+2018-08-01,visior bottom cover,1
+2018-08-01,washing,3
+2018-08-01,welding,1
+2018-08-01,wheel bearing,3
+2018-08-01,wheel bend,2
+2018-08-01,wheel rubber,35
+2018-08-01,wind shield,2
+2018-08-01,wind shield logo,1
+2018-08-01,wind shield sticker,1
+2018-08-01,wiring checkup,2
+2018-08-01,yoke,2
+2018-08-01,yoke rubber,1
+2018-09-01,accelator cable,4
+2018-09-01,air filter,99
+2018-09-01,air filter checkup,14
+2018-09-01,balancing gear,1
+2018-09-01,battery,4
+2018-09-01,battery charge,2
+2018-09-01,bc unit,1
+2018-09-01,bedding bolt,2
+2018-09-01,bore kit,2
+2018-09-01,brake cable,1
+2018-09-01,brake light switch,4
+2018-09-01,brake pedal spring,3
+2018-09-01,brake shoe,50
+2018-09-01,bush kit,6
+2018-09-01,buzzer,1
+2018-09-01,carburetor diaphragm rubber,1
+2018-09-01,chain adjuster,1
+2018-09-01,chain adjuster plate,2
+2018-09-01,chain cover bolt,2
+2018-09-01,chain lubrication,166
+2018-09-01,chain overhaul,20
+2018-09-01,chain sprocket,23
+2018-09-01,clutch assembly,16
+2018-09-01,clutch bell rest,1
+2018-09-01,clutch cable,16
+2018-09-01,clutch cam spring,2
+2018-09-01,clutch cover gasket,16
+2018-09-01,clutch cover packing,2
+2018-09-01,clutch lever,4
+2018-09-01,clutch overhual,19
+2018-09-01,clutch switch,4
+2018-09-01,clutch youck,1
+2018-09-01,consumables,81
+2018-09-01,coolant oil,2
+2018-09-01,crank reset,2
+2018-09-01,crank shaft,2
+2018-09-01,dc kit,2
+2018-09-01,disc lever,1
+2018-09-01,disc oil,71
+2018-09-01,disc overhual,11
+2018-09-01,disc pad,38
+2018-09-01,disc plate,1
+2018-09-01,disc pump kit,8
+2018-09-01,disk pad,6
+2018-09-01,drum bolt,15
+2018-09-01,engine bearing,3
+2018-09-01,engine guard,1
+2018-09-01,engine labour,3
+2018-09-01,engine oil,184
+2018-09-01,foot rest,5
+2018-09-01,fork bend,5
+2018-09-01,fork cone set,6
+2018-09-01,fork oil,9
+2018-09-01,fork oil and oil seal,1
+2018-09-01,fork oil seal,6
+2018-09-01,fork overhual,7
+2018-09-01,fuse box,1
+2018-09-01,gear and gb shaft oil seal,2
+2018-09-01,gear lever rubber,2
+2018-09-01,gear shaft,2
+2018-09-01,gear shaft oil seal,1
+2018-09-01,general service,105
+2018-09-01,gripper,2
+2018-09-01,half accelerator,3
+2018-09-01,handle bar light,1
+2018-09-01,handlebar,1
+2018-09-01,handlebar threading,1
+2018-09-01,head cap o ring,1
+2018-09-01,head light bulb,8
+2018-09-01,head light clip,1
+2018-09-01,head light switch,3
+2018-09-01,head rest,2
+2018-09-01,indicator,8
+2018-09-01,indicator bulb,1
+2018-09-01,indicator buzzer,1
+2018-09-01,labour,3
+2018-09-01,ladies foot rest,2
+2018-09-01,ladies handle,2
+2018-09-01,lever,1
+2018-09-01,light fitting charge,1
+2018-09-01,light fitting labour,1
+2018-09-01,loading gear,4
+2018-09-01,lock arm,2
+2018-09-01,lock set,2
+2018-09-01,m oil,85
+2018-09-01,master cylender,8
+2018-09-01,mirror,2
+2018-09-01,mudguard,1
+2018-09-01,mudguard bolt,1
+2018-09-01,number plate clamp,1
+2018-09-01,oil filter,41
+2018-09-01,oil lense,1
+2018-09-01,oil seal kit,1
+2018-09-01,one way clutch,1
+2018-09-01,packing kit,2
+2018-09-01,parking bulb,3
+2018-09-01,petrol lock,1
+2018-09-01,petrol tap,1
+2018-09-01,petrol tube,2
+2018-09-01,pilot light bulb,1
+2018-09-01,plug,1
+2018-09-01,polish,66
+2018-09-01,ractifier,1
+2018-09-01,rear caliper assembly,2
+2018-09-01,rear foot rest,1
+2018-09-01,seat cover,7
+2018-09-01,seat cowl,1
+2018-09-01,shield rubber,2
+2018-09-01,shield square rubber,1
+2018-09-01,side stand,2
+2018-09-01,side stand bracket,1
+2018-09-01,side stand spring,2
+2018-09-01,silencer welding,1
+2018-09-01,spark plug,41
+2018-09-01,speedometer cable,2
+2018-09-01,speedometer worm,3
+2018-09-01,sppedometer cable,1
+2018-09-01,sprocket bearing,36
+2018-09-01,sprocket rubber,38
+2018-09-01,swing arm buish kit,1
+2018-09-01,switch,2
+2018-09-01,tail lamp assembly,2
+2018-09-01,tail lamp bulb,7
+2018-09-01,tail lamp glass,1
+2018-09-01,tank cap,2
+2018-09-01,tank cleaning,1
+2018-09-01,tank cover,8
+2018-09-01,tensioner,4
+2018-09-01,timming chain,4
+2018-09-01,timming chain pad,4
+2018-09-01,tyre,2
+2018-09-01,tyre guard,1
+2018-09-01,valve grainding,2
+2018-09-01,valve guide,2
+2018-09-01,valve kit,3
+2018-09-01,washing,5
+2018-09-01,washing and labour,1
+2018-09-01,wheel bearing,3
+2018-09-01,wheel neck,1
+2018-09-01,wheel rubber,23
+2018-09-01,wind shield,1
+2018-09-01,wind shield logo,1
+2018-09-01,wiring kit,1
+2018-09-01,yoke,1
+2018-10-01,accelator cable,2
+2018-10-01,air filter,116
+2018-10-01,air filter checkup,13
+2018-10-01,battery,3
+2018-10-01,battery belt,2
+2018-10-01,bore kit,1
+2018-10-01,brake light spring,1
+2018-10-01,brake light switch,4
+2018-10-01,brake pedal spring,1
+2018-10-01,brake shoe,51
+2018-10-01,bush kit,1
+2018-10-01,buzzer,3
+2018-10-01,caliper assembly,4
+2018-10-01,caliper rubber kit,1
+2018-10-01,cam shaft,1
+2018-10-01,carburetor assembly,2
+2018-10-01,chain adjuster plate,1
+2018-10-01,chain cover beading,1
+2018-10-01,chain cover bolt,7
+2018-10-01,chain lubrication,201
+2018-10-01,chain overhaul,27
+2018-10-01,chain sprocket,31
+2018-10-01,clutch assembly,16
+2018-10-01,clutch cable,19
+2018-10-01,clutch cover gasket,17
+2018-10-01,clutch lever,8
+2018-10-01,clutch overhual,16
+2018-10-01,clutch switch,2
+2018-10-01,clutch youck,2
+2018-10-01,coil check,2
+2018-10-01,consumables,104
+2018-10-01,coolant oil,6
+2018-10-01,coolant oil hose pipe,1
+2018-10-01,crank reset,2
+2018-10-01,crank shaft,2
+2018-10-01,crash guard,1
+2018-10-01,dc kit,1
+2018-10-01,disc oil,71
+2018-10-01,disc overhual,10
+2018-10-01,disc pad,46
+2018-10-01,disc plate,7
+2018-10-01,disc pump kit,6
+2018-10-01,disk pad,3
+2018-10-01,doom screw kit,1
+2018-10-01,drum bolt,9
+2018-10-01,engine bearing,2
+2018-10-01,engine guard,4
+2018-10-01,engine labour,2
+2018-10-01,engine oil,230
+2018-10-01,fog lamp,1
+2018-10-01,foot rest,7
+2018-10-01,fork bend,3
+2018-10-01,fork cone set,12
+2018-10-01,fork labour,1
+2018-10-01,fork oil,16
+2018-10-01,fork oil seal,6
+2018-10-01,fork overhual,13
+2018-10-01,fork spring,1
+2018-10-01,front mask,1
+2018-10-01,front no plate with stiker,1
+2018-10-01,fuel guage,1
+2018-10-01,fuel wiring kit,1
+2018-10-01,gear and gb shaft oil seal,2
+2018-10-01,gear lever,2
+2018-10-01,gear lever rubber,2
+2018-10-01,gear shaft,4
+2018-10-01,general service,126
+2018-10-01,gripper,4
+2018-10-01,half accelerator,7
+2018-10-01,half axle,2
+2018-10-01,hand glouse,1
+2018-10-01,handle bar,1
+2018-10-01,handle weight,2
+2018-10-01,handle weight light,1
+2018-10-01,handlebar,3
+2018-10-01,head cap o ring,1
+2018-10-01,head light bulb,2
+2018-10-01,head light doom,3
+2018-10-01,head light stay,1
+2018-10-01,head light switch,2
+2018-10-01,head rest,2
+2018-10-01,holder step,2
+2018-10-01,horn,1
+2018-10-01,indicator,4
+2018-10-01,indicator bulb,1
+2018-10-01,indicator buzzer,3
+2018-10-01,insurance,1
+2018-10-01,labour,9
+2018-10-01,ladies handle,2
+2018-10-01,life time tax,1
+2018-10-01,loading gear,1
+2018-10-01,lock arm,2
+2018-10-01,lock set,1
+2018-10-01,m oil,100
+2018-10-01,magnet cover gasket,1
+2018-10-01,master assembly,1
+2018-10-01,master cylender,5
+2018-10-01,mirror,5
+2018-10-01,mudguard,1
+2018-10-01,number plate,1
+2018-10-01,number plate clamp,1
+2018-10-01,oil filter,51
+2018-10-01,oil lense,1
+2018-10-01,oil pump,1
+2018-10-01,oil seal kit,1
+2018-10-01,one way clutch body,1
+2018-10-01,one way clutch bush kit,1
+2018-10-01,packing kit,2
+2018-10-01,pad,1
+2018-10-01,parking bulb,4
+2018-10-01,petrol,1
+2018-10-01,petrol tap,1
+2018-10-01,petrol tube,1
+2018-10-01,pickup coil,2
+2018-10-01,pilot light,1
+2018-10-01,plug,2
+2018-10-01,plug adapter,1
+2018-10-01,polish,87
+2018-10-01,position lamp,1
+2018-10-01,pulsar rs  abs,1
+2018-10-01,pump kit,1
+2018-10-01,radiator,1
+2018-10-01,rear foot rest,1
+2018-10-01,rear tail lamp grill,1
+2018-10-01,saree guard,1
+2018-10-01,seat cover,7
+2018-10-01,self realy,1
+2018-10-01,service,1
+2018-10-01,shield rubber,3
+2018-10-01,shield square rubber,1
+2018-10-01,side lock,1
+2018-10-01,side sheld rubber,1
+2018-10-01,side stand,1
+2018-10-01,side stand magnet,1
+2018-10-01,side stand spring,2
+2018-10-01,silencer,1
+2018-10-01,silencer gasket,2
+2018-10-01,silencer jall,2
+2018-10-01,size nut,1
+2018-10-01,spark plug,38
+2018-10-01,speedometer,1
+2018-10-01,speedometer cable,6
+2018-10-01,speedometer worm,1
+2018-10-01,sprocket bearing,45
+2018-10-01,sprocket rubber,55
+2018-10-01,starter coil,2
+2018-10-01,stopper welding,1
+2018-10-01,switch,1
+2018-10-01,tail lamp bulb,4
+2018-10-01,tank cover,6
+2018-10-01,tensioner,3
+2018-10-01,timming chain,3
+2018-10-01,timming chain pad,3
+2018-10-01,tubeless neck,1
+2018-10-01,tyre,3
+2018-10-01,tyre replacement,1
+2018-10-01,valve grainding,2
+2018-10-01,valve guide,2
+2018-10-01,valve kit,2
+2018-10-01,visior,1
+2018-10-01,washing,4
+2018-10-01,welding,1
+2018-10-01,wheel rubber,21
+2018-10-01,wind shield,2
+2018-10-01,wind shield logo,1
+2018-10-01,wind shield rubber,1
+2018-10-01,wind shield sticker,1
+2018-10-01,wiring checkup,1
+2018-10-01,yoke,1
+2018-10-01,yoke lever,1
+2018-11-01,accelator cable,3
+2018-11-01,air filter,134
+2018-11-01,air filter checkup,5
+2018-11-01,air intake,1
+2018-11-01,balancing gear,1
+2018-11-01,battery,3
+2018-11-01,battery charge,1
+2018-11-01,bore kit,2
+2018-11-01,brake cable,1
+2018-11-01,brake light switch,2
+2018-11-01,brake shoe,56
+2018-11-01,bush kit,2
+2018-11-01,buzzer,2
+2018-11-01,cahin pad screw,1
+2018-11-01,caliper assembly,7
+2018-11-01,cam shaft,3
+2018-11-01,carburetor,1
+2018-11-01,carburetor assembly,1
+2018-11-01,carburetor diaphragm rubber,1
+2018-11-01,chain adjuster plate,3
+2018-11-01,chain cover beading,3
+2018-11-01,chain cover bolt,7
+2018-11-01,chain cover rubber,2
+2018-11-01,chain lubrication,194
+2018-11-01,chain overhaul,28
+2018-11-01,chain sprocket,32
+2018-11-01,clutch assembly,16
+2018-11-01,clutch cable,16
+2018-11-01,clutch cover gasket,17
+2018-11-01,clutch lever,9
+2018-11-01,clutch overhual,15
+2018-11-01,clutch switch,3
+2018-11-01,clutch youck,1
+2018-11-01,coil check,6
+2018-11-01,consumables,101
+2018-11-01,coolant oil,3
+2018-11-01,coolant oil sensor,1
+2018-11-01,coolant oil top up,1
+2018-11-01,crank reset,2
+2018-11-01,crank shaft,2
+2018-11-01,crash guard,1
+2018-11-01,dc kit,1
+2018-11-01,disc lever,4
+2018-11-01,disc oil,79
+2018-11-01,disc overhual,13
+2018-11-01,disc pad,27
+2018-11-01,disc pump kit,10
+2018-11-01,disk pad,4
+2018-11-01,doom screw kit,1
+2018-11-01,drum bolt,11
+2018-11-01,engine bearing,2
+2018-11-01,engine case welding,1
+2018-11-01,engine guard,6
+2018-11-01,engine labour,5
+2018-11-01,engine oil,222
+2018-11-01,engine work,1
+2018-11-01,fog lamp fitting,1
+2018-11-01,foot rest,8
+2018-11-01,foot rest assembly,1
+2018-11-01,fork bend,4
+2018-11-01,fork cone set,3
+2018-11-01,fork oil,15
+2018-11-01,fork oil seal,3
+2018-11-01,fork overhual,13
+2018-11-01,fork spring,1
+2018-11-01,front mudguard,1
+2018-11-01,fuel guage,1
+2018-11-01,gear lever,1
+2018-11-01,gear shaft,5
+2018-11-01,general service,120
+2018-11-01,grip set,1
+2018-11-01,gripper,1
+2018-11-01,half accelerator,8
+2018-11-01,handle weight,1
+2018-11-01,head cap o ring,4
+2018-11-01,head light bulb,7
+2018-11-01,head light doom,2
+2018-11-01,head light relay,1
+2018-11-01,head light stay,1
+2018-11-01,head light switch,7
+2018-11-01,head rest,2
+2018-11-01,head rubber,1
+2018-11-01,head sensor,1
+2018-11-01,helmet lock,1
+2018-11-01,horn,2
+2018-11-01,horn clip,1
+2018-11-01,indicator,3
+2018-11-01,indicator bulb,1
+2018-11-01,labour,7
+2018-11-01,ladies handle,1
+2018-11-01,light switch,1
+2018-11-01,loading gear,2
+2018-11-01,lock arm,2
+2018-11-01,lock set,2
+2018-11-01,low beam bulb,1
+2018-11-01,m oil,102
+2018-11-01,magwheel,1
+2018-11-01,master assembly,1
+2018-11-01,master cylender,5
+2018-11-01,mirror,6
+2018-11-01,mobile holder,1
+2018-11-01,mudguard,1
+2018-11-01,number plate,1
+2018-11-01,oil filter,68
+2018-11-01,oil seal kit,2
+2018-11-01,packing kit,2
+2018-11-01,parking bulb,2
+2018-11-01,petrol,2
+2018-11-01,petrol filter,1
+2018-11-01,petrol tap,1
+2018-11-01,petrol tube,3
+2018-11-01,pickup coil,4
+2018-11-01,plug adapter,2
+2018-11-01,polish,93
+2018-11-01,radiator fan,1
+2018-11-01,rear foot rest,1
+2018-11-01,rebore,1
+2018-11-01,seat cover,4
+2018-11-01,seat cowl,1
+2018-11-01,shield rubber,2
+2018-11-01,side box,1
+2018-11-01,side lock,1
+2018-11-01,side mask,1
+2018-11-01,side shield,1
+2018-11-01,side stand,1
+2018-11-01,side stand bolt,1
+2018-11-01,side stand spring,1
+2018-11-01,silencer jall,2
+2018-11-01,spark plug,32
+2018-11-01,speedometer cable,3
+2018-11-01,speedometer glass,1
+2018-11-01,speedometer worm,4
+2018-11-01,sprocket bearing,61
+2018-11-01,sprocket rubber,63
+2018-11-01,starter coil,3
+2018-11-01,switch,1
+2018-11-01,tail lamp assembly,1
+2018-11-01,tail lamp bulb,9
+2018-11-01,tank cover,6
+2018-11-01,tank dent,1
+2018-11-01,tank folp,1
+2018-11-01,tank logo,1
+2018-11-01,teflon coating,2
+2018-11-01,tensioner,4
+2018-11-01,threading,1
+2018-11-01,timming chain,4
+2018-11-01,timming chain pad,4
+2018-11-01,top plate,1
+2018-11-01,tyre,1
+2018-11-01,tyre replacement,2
+2018-11-01,valve grainding,3
+2018-11-01,valve guide,3
+2018-11-01,valve kit,3
+2018-11-01,visior,2
+2018-11-01,washing,3
+2018-11-01,way switch,1
+2018-11-01,wheel bearing,6
+2018-11-01,wheel bolt,1
+2018-11-01,wheel rubber,16
+2018-11-01,wind shield,3
+2018-11-01,wind shield sticker,1
+2018-11-01,wiring,1
+2018-11-01,wiring checkup,2
+2018-11-01,yoke,3
+2018-12-01,accelator cable,1
+2018-12-01,air filter,123
+2018-12-01,air filter checkup,14
+2018-12-01,battery,7
+2018-12-01,bore kit,4
+2018-12-01,brake cable,1
+2018-12-01,brake shoe,34
+2018-12-01,bulb,3
+2018-12-01,buzzer,2
+2018-12-01,cable lock,2
+2018-12-01,caliper assembly,4
+2018-12-01,cam shaft,1
+2018-12-01,carburetor assembly,2
+2018-12-01,center stand spring,1
+2018-12-01,chain adjuster,1
+2018-12-01,chain adjuster plate,1
+2018-12-01,chain cover bolt,2
+2018-12-01,chain link lock,1
+2018-12-01,chain lubrication,192
+2018-12-01,chain overhaul,24
+2018-12-01,chain set,1
+2018-12-01,chain sprocket,25
+2018-12-01,clutch assembly,15
+2018-12-01,clutch bell rest,1
+2018-12-01,clutch cable,21
+2018-12-01,clutch cover gasket,15
+2018-12-01,clutch lever,5
+2018-12-01,clutch overhual,15
+2018-12-01,clutch switch,2
+2018-12-01,cone set,1
+2018-12-01,consumables,98
+2018-12-01,coolant oil,2
+2018-12-01,coolant oil tank,1
+2018-12-01,coolant oil top up,1
+2018-12-01,crank reset,5
+2018-12-01,crank shaft,4
+2018-12-01,crash guard,2
+2018-12-01,dc kit,1
+2018-12-01,disc lever,2
+2018-12-01,disc oil,81
+2018-12-01,disc oil topup,1
+2018-12-01,disc overhual,6
+2018-12-01,disc pad,32
+2018-12-01,disc plate,5
+2018-12-01,disc pump kit,5
+2018-12-01,disk pad,2
+2018-12-01,doom replacement,1
+2018-12-01,drum bolt,6
+2018-12-01,engine bearing,4
+2018-12-01,engine case,1
+2018-12-01,engine case bearing assebly,1
+2018-12-01,engine guard,4
+2018-12-01,engine labour,4
+2018-12-01,engine oil,214
+2018-12-01,foot rest,4
+2018-12-01,foot rest assembly,1
+2018-12-01,fork assembly,1
+2018-12-01,fork bend,3
+2018-12-01,fork cone set,5
+2018-12-01,fork oil,10
+2018-12-01,fork oil seal,7
+2018-12-01,fork overhual,9
+2018-12-01,fork spring,2
+2018-12-01,front mask,1
+2018-12-01,front mudguard,2
+2018-12-01,fuel tap,1
+2018-12-01,gb cover bolt,1
+2018-12-01,gear and gb shaft oil seal,1
+2018-12-01,gear box,1
+2018-12-01,gear lever,3
+2018-12-01,gear lever bolt,2
+2018-12-01,gear lever rubber,1
+2018-12-01,gear shaft,5
+2018-12-01,gear shaft oil seal,3
+2018-12-01,general service,117
+2018-12-01,gripper,6
+2018-12-01,half accelerator,4
+2018-12-01,half axle,1
+2018-12-01,handle bar,2
+2018-12-01,handle holder,1
+2018-12-01,handle weight,2
+2018-12-01,handlebar,1
+2018-12-01,head cap o ring,1
+2018-12-01,head light bulb,2
+2018-12-01,head light doom,3
+2018-12-01,head light holder,2
+2018-12-01,head light stay,2
+2018-12-01,head light switch,8
+2018-12-01,head rest,5
+2018-12-01,head sensor,1
+2018-12-01,helmet,1
+2018-12-01,horn,1
+2018-12-01,horn fitting charge,1
+2018-12-01,indicator,6
+2018-12-01,indicator bulb,1
+2018-12-01,indicator buzzer,1
+2018-12-01,indicator switch,1
+2018-12-01,kicker stopper,1
+2018-12-01,labour,7
+2018-12-01,ladies handle,3
+2018-12-01,loading gear,5
+2018-12-01,lock arm,5
+2018-12-01,lock set,1
+2018-12-01,low beam bulb,3
+2018-12-01,m oil,98
+2018-12-01,magnet cover gasket,2
+2018-12-01,magnet oil seal,1
+2018-12-01,magnet overhual,1
+2018-12-01,magwheel,1
+2018-12-01,master cylender,2
+2018-12-01,mirror,4
+2018-12-01,number plate,1
+2018-12-01,oil filter,55
+2018-12-01,oil lense,1
+2018-12-01,oil seal kit,3
+2018-12-01,one way clutch assembly,1
+2018-12-01,one way clutch bush kit,1
+2018-12-01,packing kit,4
+2018-12-01,parking bulb,3
+2018-12-01,petrol,1
+2018-12-01,petrol tap,1
+2018-12-01,petrol tube,1
+2018-12-01,plug adapter,1
+2018-12-01,plug adapter rubber,1
+2018-12-01,polish,87
+2018-12-01,seat cover,13
+2018-12-01,seat fitting charge,1
+2018-12-01,seat lock,1
+2018-12-01,service,1
+2018-12-01,shield square rubber,1
+2018-12-01,shock absorber,2
+2018-12-01,side shield,1
+2018-12-01,side stand,2
+2018-12-01,side stand magnet,2
+2018-12-01,side stand spring,3
+2018-12-01,silencer,1
+2018-12-01,silencer jali,1
+2018-12-01,silencer jall,1
+2018-12-01,spark plug,15
+2018-12-01,speedometer cable,1
+2018-12-01,speedometer flop,1
+2018-12-01,speedometer worm,2
+2018-12-01,sprocket bearing,62
+2018-12-01,sprocket rubber,74
+2018-12-01,step holder,1
+2018-12-01,swing arm buish kit,1
+2018-12-01,switch,5
+2018-12-01,tail lamp assembly,1
+2018-12-01,tail lamp bulb,5
+2018-12-01,tank cleaning,1
+2018-12-01,tank cover,7
+2018-12-01,tank folp,1
+2018-12-01,tensioner,5
+2018-12-01,timming chain,5
+2018-12-01,timming chain pad,5
+2018-12-01,top plate,1
+2018-12-01,tube,1
+2018-12-01,tyre,4
+2018-12-01,tyre replacement,2
+2018-12-01,valve grainding,5
+2018-12-01,valve guide,5
+2018-12-01,valve kit,5
+2018-12-01,visior,1
+2018-12-01,washing,1
+2018-12-01,welding,1
+2018-12-01,wheel acceletor cable,1
+2018-12-01,wheel bearing,1
+2018-12-01,wheel bend,1
+2018-12-01,wheel rubber,10
+2018-12-01,wind shield,1
+2018-12-01,wind shield rubber kit,1
+2018-12-01,wiring checkup,3
+2018-12-01,yoke,1
+2019-02-01,air filter,7
+2019-02-01,air intake,1
+2019-02-01,chain cover bolt,1
+2019-02-01,chain lubrication,4
+2019-02-01,chain overhaul,3
+2019-02-01,chain sprocket,3
+2019-02-01,clutch assembly,1
+2019-02-01,clutch cable,1
+2019-02-01,clutch cover gasket,1
+2019-02-01,clutch overhual,1
+2019-02-01,consumables,1
+2019-02-01,crash guard,1
+2019-02-01,disc oil,4
+2019-02-01,disc pad,1
+2019-02-01,drum bolt,1
+2019-02-01,engine oil,6
+2019-02-01,fork bend,1
+2019-02-01,fork cone set,1
+2019-02-01,fork oil,1
+2019-02-01,fork oil seal,1
+2019-02-01,general service,6
+2019-02-01,half accelerator,1
+2019-02-01,half axle,1
+2019-02-01,handle weight,1
+2019-02-01,handlebar,1
+2019-02-01,head rest,1
+2019-02-01,head stay,1
+2019-02-01,indicator,1
+2019-02-01,labour,2
+2019-02-01,m oil,1
+2019-02-01,master cylender,1
+2019-02-01,oil filter,3
+2019-02-01,parking bulb,2
+2019-02-01,polish,1
+2019-02-01,seat cover,1
+2019-02-01,silencer jall,1
+2019-02-01,spark plug,2
+2019-02-01,sprocket bearing,4
+2019-02-01,sprocket rubber,5
+2019-02-01,tail lamp bulb,1
+2019-02-01,valve grainding,1
+2019-02-01,valve guide,1
+2019-02-01,valve kit,1
+2019-03-01,accelator cable,2
+2019-03-01,air filter,4
+2019-03-01,brake shoe,2
+2019-03-01,caliper assembly,1
+2019-03-01,chain lubrication,4
+2019-03-01,chain overhaul,2
+2019-03-01,chain sprocket,2
+2019-03-01,clutch assembly,1
+2019-03-01,clutch cable,2
+2019-03-01,clutch cover gasket,2
+2019-03-01,clutch overhual,1
+2019-03-01,disc oil,4
+2019-03-01,disc pad,2
+2019-03-01,engine oil,6
+2019-03-01,gb shaft oil seal,1
+2019-03-01,general service,6
+2019-03-01,head cap o ring,1
+2019-03-01,loading gear,1
+2019-03-01,master cylender,1
+2019-03-01,oil filter,2
+2019-03-01,one way clutch bush kit,1
+2019-03-01,seat cover,1
+2019-03-01,self motor,1
+2019-03-01,sprocket bearing,2
+2019-03-01,sprocket rubber,3
+2019-03-01,switch,1
+2019-03-01,wind shield,1
+2019-03-01,wiring checkup,1
+2019-04-01,air filter,9
+2019-04-01,air intake,1
+2019-04-01,brake cable,1
+2019-04-01,brake shoe,2
+2019-04-01,chain lubrication,10
+2019-04-01,chain overhaul,1
+2019-04-01,chain sprocket,1
+2019-04-01,clutch lever,1
+2019-04-01,consumables,5
+2019-04-01,disc oil,4
+2019-04-01,disc pad,2
+2019-04-01,doom replacement,1
+2019-04-01,doom screw kit,1
+2019-04-01,drum bolt,1
+2019-04-01,engine oil,11
+2019-04-01,front mask,1
+2019-04-01,general service,6
+2019-04-01,gripper,1
+2019-04-01,head light doom,1
+2019-04-01,m oil,5
+2019-04-01,mirror,1
+2019-04-01,oil filter,5
+2019-04-01,parking bulb,1
+2019-04-01,polish,5
+2019-04-01,spark plug,1
+2019-04-01,sprocket bearing,4
+2019-04-01,sprocket rubber,4
+2019-04-01,switch,1
+2019-04-01,tank cover,1
+2019-05-01,air filter,7
+2019-05-01,air filter checkup,1
+2019-05-01,battery,1
+2019-05-01,brake light switch,1
+2019-05-01,brake shoe,2
+2019-05-01,chain lubrication,9
+2019-05-01,chain overhaul,2
+2019-05-01,chain sprocket,2
+2019-05-01,consumables,5
+2019-05-01,disc oil,5
+2019-05-01,disc overhual,1
+2019-05-01,disc pad,1
+2019-05-01,drum bolt,2
+2019-05-01,engine oil,11
+2019-05-01,fork bend,1
+2019-05-01,fork cone set,1
+2019-05-01,fork oil,1
+2019-05-01,fork oil seal,1
+2019-05-01,fork overhual,1
+2019-05-01,general service,6
+2019-05-01,half accelerator,1
+2019-05-01,m oil,5
+2019-05-01,master cylender,1
+2019-05-01,oil filter,1
+2019-05-01,petrol tube,1
+2019-05-01,polish,5
+2019-05-01,spark plug,3
+2019-05-01,sprocket bearing,2
+2019-05-01,sprocket rubber,7
+2019-06-01,air filter,2
+2019-06-01,chain lubrication,4
+2019-06-01,clutch cable,1
+2019-06-01,consumables,2
+2019-06-01,disc oil,2
+2019-06-01,engine oil,4
+2019-06-01,fork oil,1
+2019-06-01,fork oil seal,1
+2019-06-01,fork overhual,1
+2019-06-01,general service,2
+2019-06-01,head light bulb,1
+2019-06-01,m oil,1
+2019-06-01,number plate,1
+2019-06-01,number plate clamp,1
+2019-06-01,oil filter,1
+2019-06-01,polish,2
+2019-06-01,sprocket rubber,1
